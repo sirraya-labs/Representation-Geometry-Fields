@@ -1,0 +1,7210 @@
+{
+  "per_token_results": [
+    {
+      "layer": 4,
+      "sentence_id": 0,
+      "position": 0,
+      "delta": 0.3136115328174478,
+      "perplexity": 8687.5556640625,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 0,
+      "position": 1,
+      "delta": 0.03117087027784723,
+      "perplexity": 6.08969259262085,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 0,
+      "position": 2,
+      "delta": 0.024477844874638527,
+      "perplexity": 152.9142303466797,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 0,
+      "position": 3,
+      "delta": 0.02046226037294484,
+      "perplexity": 8.220215797424316,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 0,
+      "position": 4,
+      "delta": 0.021367435384135686,
+      "perplexity": 31.012632369995117,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 0,
+      "position": 5,
+      "delta": 0.019156015860687523,
+      "perplexity": 3.8286120891571045,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 1,
+      "position": 0,
+      "delta": 0.22964886876125798,
+      "perplexity": 358456.71875,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 1,
+      "position": 1,
+      "delta": 0.026782498487294176,
+      "perplexity": 20.88544464111328,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 1,
+      "position": 2,
+      "delta": 0.023956666069643133,
+      "perplexity": 40.710567474365234,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 1,
+      "position": 3,
+      "delta": 0.01568623798739999,
+      "perplexity": 3.656996488571167,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 1,
+      "position": 4,
+      "delta": 0.01971190925964676,
+      "perplexity": 13.428101539611816,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 1,
+      "position": 5,
+      "delta": 0.024338569876226162,
+      "perplexity": 4.440216064453125,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 2,
+      "position": 0,
+      "delta": 0.37936370920730034,
+      "perplexity": 6138.98095703125,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 2,
+      "position": 1,
+      "delta": 0.023916068994619424,
+      "perplexity": 629.1617431640625,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 2,
+      "position": 2,
+      "delta": 0.01822393842357829,
+      "perplexity": 18.88587188720703,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 2,
+      "position": 3,
+      "delta": 0.01668971071944664,
+      "perplexity": 1.897983431816101,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 2,
+      "position": 4,
+      "delta": 0.01630535263578973,
+      "perplexity": 2.117906332015991,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 2,
+      "position": 5,
+      "delta": 0.017270220481363077,
+      "perplexity": 9.63014030456543,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 3,
+      "position": 0,
+      "delta": 0.34843943061961663,
+      "perplexity": 38429.09375,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 3,
+      "position": 1,
+      "delta": 0.026287343921739075,
+      "perplexity": 39.423465728759766,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 3,
+      "position": 2,
+      "delta": 0.016249290506392428,
+      "perplexity": 10598.642578125,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 3,
+      "position": 3,
+      "delta": 0.015918859485421745,
+      "perplexity": 1.0109977722167969,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 3,
+      "position": 4,
+      "delta": 0.02625392774149153,
+      "perplexity": 16.518115997314453,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 3,
+      "position": 5,
+      "delta": 0.02464610967895925,
+      "perplexity": 171.98159790039062,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 3,
+      "position": 6,
+      "delta": 0.016841809717105125,
+      "perplexity": 1.041352391242981,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 3,
+      "position": 7,
+      "delta": 0.02210057466659149,
+      "perplexity": 1.0000964403152466,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 3,
+      "position": 8,
+      "delta": 0.02181597783493727,
+      "perplexity": 6.956355094909668,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 4,
+      "position": 0,
+      "delta": 0.2218932846383519,
+      "perplexity": 1017.1853637695312,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 4,
+      "position": 1,
+      "delta": 0.019852119659916553,
+      "perplexity": 12.697994232177734,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 4,
+      "position": 2,
+      "delta": 0.01746597094269443,
+      "perplexity": 171.09835815429688,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 4,
+      "position": 3,
+      "delta": 0.018815096169638782,
+      "perplexity": 37.788551330566406,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 4,
+      "position": 4,
+      "delta": 0.018848428078217735,
+      "perplexity": 2.3518471717834473,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 4,
+      "position": 5,
+      "delta": 0.01997162163553722,
+      "perplexity": 36.98419952392578,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 4,
+      "position": 6,
+      "delta": 0.01768552386592979,
+      "perplexity": 8.84091567993164,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 5,
+      "position": 0,
+      "delta": 0.255227669799759,
+      "perplexity": 516518.90625,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 5,
+      "position": 1,
+      "delta": 0.026323616510804664,
+      "perplexity": 4530.68603515625,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 5,
+      "position": 2,
+      "delta": 0.020784818060162188,
+      "perplexity": 70.015380859375,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 5,
+      "position": 3,
+      "delta": 0.01697351048090962,
+      "perplexity": 3.065639019012451,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 5,
+      "position": 4,
+      "delta": 0.01767515048871814,
+      "perplexity": 2.995314121246338,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 5,
+      "position": 5,
+      "delta": 0.0227530915454672,
+      "perplexity": 4.98203182220459,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 6,
+      "position": 0,
+      "delta": 0.30191649479344196,
+      "perplexity": 3102.160400390625,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 6,
+      "position": 1,
+      "delta": 0.020166445369980565,
+      "perplexity": 44.8156623840332,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 6,
+      "position": 2,
+      "delta": 0.027679383507133004,
+      "perplexity": 2.219194173812866,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 6,
+      "position": 3,
+      "delta": 0.019280700361391997,
+      "perplexity": 1.0778692960739136,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 6,
+      "position": 4,
+      "delta": 0.023556957681427956,
+      "perplexity": 13.903039932250977,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 6,
+      "position": 5,
+      "delta": 0.019067564735909044,
+      "perplexity": 221.24591064453125,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 6,
+      "position": 6,
+      "delta": 0.021501758859634405,
+      "perplexity": 3.2603204250335693,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 6,
+      "position": 7,
+      "delta": 0.01997572492736908,
+      "perplexity": 463.76373291015625,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 6,
+      "position": 8,
+      "delta": 0.027004287691889048,
+      "perplexity": 3.307602882385254,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 7,
+      "position": 0,
+      "delta": 0.17849771125516978,
+      "perplexity": 591.8527221679688,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 7,
+      "position": 1,
+      "delta": 0.030044289495719804,
+      "perplexity": 60.518531799316406,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 7,
+      "position": 2,
+      "delta": 0.026366338187006205,
+      "perplexity": 17415.314453125,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 7,
+      "position": 3,
+      "delta": 0.016706437698254143,
+      "perplexity": 5.312133312225342,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 7,
+      "position": 4,
+      "delta": 0.021703745883084723,
+      "perplexity": 472.0952453613281,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 7,
+      "position": 5,
+      "delta": 0.02292398318986917,
+      "perplexity": 1.1056783199310303,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 7,
+      "position": 6,
+      "delta": 0.01700022669782428,
+      "perplexity": 15.69500732421875,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 7,
+      "position": 7,
+      "delta": 0.017595339269095244,
+      "perplexity": 6.622836112976074,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 8,
+      "position": 0,
+      "delta": 0.1648784311326293,
+      "perplexity": 20881.10546875,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 8,
+      "position": 1,
+      "delta": 0.02206130086421154,
+      "perplexity": 24.934581756591797,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 8,
+      "position": 2,
+      "delta": 0.022232385060808216,
+      "perplexity": 7.075277328491211,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 8,
+      "position": 3,
+      "delta": 0.023962245118793152,
+      "perplexity": 13.55055046081543,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 8,
+      "position": 4,
+      "delta": 0.024015422717994662,
+      "perplexity": 11.050253868103027,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 8,
+      "position": 5,
+      "delta": 0.017446269960036693,
+      "perplexity": 5.540547847747803,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 8,
+      "position": 6,
+      "delta": 0.018715286894331263,
+      "perplexity": 12.298667907714844,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 8,
+      "position": 7,
+      "delta": 0.023741011503741614,
+      "perplexity": 1.414231538772583,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 8,
+      "position": 8,
+      "delta": 0.021527940671218958,
+      "perplexity": 4.523439884185791,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 9,
+      "position": 0,
+      "delta": 0.5503694925234003,
+      "perplexity": 4104.810546875,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 9,
+      "position": 1,
+      "delta": 0.03154006888257493,
+      "perplexity": 1.0632489919662476,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 9,
+      "position": 2,
+      "delta": 0.02501884874224843,
+      "perplexity": 1016.5245361328125,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 9,
+      "position": 3,
+      "delta": 0.01946144128447874,
+      "perplexity": 4.2462477684021,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 9,
+      "position": 4,
+      "delta": 0.022767854712880953,
+      "perplexity": 119.06707000732422,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 9,
+      "position": 5,
+      "delta": 0.017253045362492673,
+      "perplexity": 1.0977139472961426,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 9,
+      "position": 6,
+      "delta": 0.02298815386611268,
+      "perplexity": 14.587177276611328,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 10,
+      "position": 0,
+      "delta": 0.20403897976957858,
+      "perplexity": 57841.60546875,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 10,
+      "position": 1,
+      "delta": 0.017237839175421387,
+      "perplexity": 4.627824783325195,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 10,
+      "position": 2,
+      "delta": 0.021404338251974585,
+      "perplexity": 20.436384201049805,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 10,
+      "position": 3,
+      "delta": 0.021401417531349054,
+      "perplexity": 24.816085815429688,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 10,
+      "position": 4,
+      "delta": 0.0206505503327111,
+      "perplexity": 3.292767286300659,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 10,
+      "position": 5,
+      "delta": 0.020328071720749477,
+      "perplexity": 422.6575012207031,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 10,
+      "position": 6,
+      "delta": 0.020218785860394595,
+      "perplexity": 16.627870559692383,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 11,
+      "position": 0,
+      "delta": 0.2043577898253797,
+      "perplexity": 120.49966430664062,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 11,
+      "position": 1,
+      "delta": 0.02272451404151485,
+      "perplexity": 33.505088806152344,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 11,
+      "position": 2,
+      "delta": 0.021348211260901574,
+      "perplexity": 1031.196044921875,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 11,
+      "position": 3,
+      "delta": 0.019165724352865163,
+      "perplexity": 342.188720703125,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 11,
+      "position": 4,
+      "delta": 0.02115671212866442,
+      "perplexity": 196.04806518554688,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 11,
+      "position": 5,
+      "delta": 0.01852372091387782,
+      "perplexity": 8.271039962768555,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 11,
+      "position": 6,
+      "delta": 0.023648633123552584,
+      "perplexity": 6.654029846191406,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 0,
+      "delta": 0.27952757478636403,
+      "perplexity": 19202.1171875,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 1,
+      "delta": 0.02427250946757829,
+      "perplexity": 372.3038024902344,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 2,
+      "delta": 0.0212150762994151,
+      "perplexity": 1.1940975189208984,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 3,
+      "delta": 0.021726364377977467,
+      "perplexity": 827.5626831054688,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 4,
+      "delta": 0.016730776911394477,
+      "perplexity": 353.381591796875,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 5,
+      "delta": 0.019005490708434183,
+      "perplexity": 4.5343017578125,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 6,
+      "delta": 0.01738800370010136,
+      "perplexity": 1.2746931314468384,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 7,
+      "delta": 0.018776377405313214,
+      "perplexity": 278.17559814453125,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 8,
+      "delta": 0.017441322295751294,
+      "perplexity": 1.0037808418273926,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 9,
+      "delta": 0.019692598208004314,
+      "perplexity": 130.51866149902344,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 12,
+      "position": 10,
+      "delta": 0.01641298103606079,
+      "perplexity": 4.80399227142334,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 0,
+      "delta": 0.16376182464668632,
+      "perplexity": 11994.0751953125,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 1,
+      "delta": 0.02379743972821268,
+      "perplexity": 182.89442443847656,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 2,
+      "delta": 0.020019539470884164,
+      "perplexity": 30.68504524230957,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 3,
+      "delta": 0.02867104931295018,
+      "perplexity": 1.0004721879959106,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 4,
+      "delta": 0.023082599533337123,
+      "perplexity": 5745.62890625,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 5,
+      "delta": 0.020620792231794523,
+      "perplexity": 5.327917098999023,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 6,
+      "delta": 0.021265138896709453,
+      "perplexity": 2471.03125,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 7,
+      "delta": 0.014635689192803671,
+      "perplexity": 2.5862462520599365,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 8,
+      "delta": 0.024970736563307207,
+      "perplexity": 1.0093618631362915,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 13,
+      "position": 9,
+      "delta": 0.023897562608208387,
+      "perplexity": 12.41407299041748,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 0,
+      "delta": 0.2787001740151832,
+      "perplexity": 5200.37548828125,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 1,
+      "delta": 0.018473546787226153,
+      "perplexity": 2.8456761837005615,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 2,
+      "delta": 0.017855656349375852,
+      "perplexity": 11.634221076965332,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 3,
+      "delta": 0.024870258314059444,
+      "perplexity": 4.726280689239502,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 4,
+      "delta": 0.01878753129720148,
+      "perplexity": 657.7079467773438,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 5,
+      "delta": 0.013555259801517455,
+      "perplexity": 121.19634246826172,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 6,
+      "delta": 0.016033718928405227,
+      "perplexity": 19.86389923095703,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 7,
+      "delta": 0.06419497134409141,
+      "perplexity": 1.014304280281067,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 8,
+      "delta": 0.01791755736360882,
+      "perplexity": 11.327028274536133,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 9,
+      "delta": 0.013851688181595573,
+      "perplexity": 1.3081018924713135,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 10,
+      "delta": 0.018042619700996056,
+      "perplexity": 19.719465255737305,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 14,
+      "position": 11,
+      "delta": 0.035822096743942065,
+      "perplexity": 3.206973075866699,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 15,
+      "position": 0,
+      "delta": 0.16648857494222505,
+      "perplexity": 138294.015625,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 15,
+      "position": 1,
+      "delta": 0.026200601346084314,
+      "perplexity": 16.409095764160156,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 15,
+      "position": 2,
+      "delta": 0.029114060012747286,
+      "perplexity": 12.97304916381836,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 15,
+      "position": 3,
+      "delta": 0.017108796958256844,
+      "perplexity": 11.360559463500977,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 15,
+      "position": 4,
+      "delta": 0.016866847238095135,
+      "perplexity": 5.25233268737793,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 15,
+      "position": 5,
+      "delta": 0.020634603153775258,
+      "perplexity": 5.949069499969482,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 15,
+      "position": 6,
+      "delta": 0.017715846220214406,
+      "perplexity": 3.1895992755889893,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 15,
+      "position": 7,
+      "delta": 0.012753060332128559,
+      "perplexity": 3.692255735397339,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 16,
+      "position": 0,
+      "delta": 0.2645189351788751,
+      "perplexity": 1980.415771484375,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 16,
+      "position": 1,
+      "delta": 0.023782334486008385,
+      "perplexity": 4.974903106689453,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 16,
+      "position": 2,
+      "delta": 0.020449575732691034,
+      "perplexity": 12.429203987121582,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 16,
+      "position": 3,
+      "delta": 0.017577835744775002,
+      "perplexity": 60514.4375,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 16,
+      "position": 4,
+      "delta": 0.0219441581217905,
+      "perplexity": 196.9145050048828,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 16,
+      "position": 5,
+      "delta": 0.01892194081245737,
+      "perplexity": 7.91326379776001,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 17,
+      "position": 0,
+      "delta": 0.22926896073640846,
+      "perplexity": 186645.203125,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 17,
+      "position": 1,
+      "delta": 0.02407943463549596,
+      "perplexity": 51.98143768310547,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 17,
+      "position": 2,
+      "delta": 0.01664228458746063,
+      "perplexity": 2.1765265464782715,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 17,
+      "position": 3,
+      "delta": 0.024067305202612348,
+      "perplexity": 1.0030075311660767,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 17,
+      "position": 4,
+      "delta": 0.02876207231925692,
+      "perplexity": 25792.224609375,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 17,
+      "position": 5,
+      "delta": 0.018990947862774728,
+      "perplexity": 2425.87890625,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 17,
+      "position": 6,
+      "delta": 0.01692145588274794,
+      "perplexity": 89.1556396484375,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 17,
+      "position": 7,
+      "delta": 0.02707017672723472,
+      "perplexity": 1.4506741762161255,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 17,
+      "position": 8,
+      "delta": 0.022529755036400097,
+      "perplexity": 13.622598648071289,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 18,
+      "position": 0,
+      "delta": 0.37615081111984033,
+      "perplexity": 53091.40234375,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 18,
+      "position": 1,
+      "delta": 0.024952838380506024,
+      "perplexity": 2.0593695640563965,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 18,
+      "position": 2,
+      "delta": 0.020334132603101584,
+      "perplexity": 59.221717834472656,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 18,
+      "position": 3,
+      "delta": 0.018155550208568613,
+      "perplexity": 2.9047908782958984,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 18,
+      "position": 4,
+      "delta": 0.02088940682582475,
+      "perplexity": 47.141387939453125,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 18,
+      "position": 5,
+      "delta": 0.02285886826821498,
+      "perplexity": 17.266660690307617,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 19,
+      "position": 0,
+      "delta": 0.2852192223592383,
+      "perplexity": 26710.880859375,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 19,
+      "position": 1,
+      "delta": 0.027241702804307242,
+      "perplexity": 319.84808349609375,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 19,
+      "position": 2,
+      "delta": 0.021388970694865304,
+      "perplexity": 3.825113534927368,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 19,
+      "position": 3,
+      "delta": 0.01510999670601091,
+      "perplexity": 43.168846130371094,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 19,
+      "position": 4,
+      "delta": 0.02324814254359921,
+      "perplexity": 41.311153411865234,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 19,
+      "position": 5,
+      "delta": 0.020641775395841732,
+      "perplexity": 27.546449661254883,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 19,
+      "position": 6,
+      "delta": 0.02463985204356013,
+      "perplexity": 4.545222759246826,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 19,
+      "position": 7,
+      "delta": 0.0191182564278554,
+      "perplexity": 3.1135308742523193,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 20,
+      "position": 0,
+      "delta": 0.2678737332837021,
+      "perplexity": 177476.1875,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 20,
+      "position": 1,
+      "delta": 0.021181231101581814,
+      "perplexity": 26.865392684936523,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 20,
+      "position": 2,
+      "delta": 0.02287648596000465,
+      "perplexity": 5.520791053771973,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 20,
+      "position": 3,
+      "delta": 0.0215117049322043,
+      "perplexity": 17.30518341064453,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 20,
+      "position": 4,
+      "delta": 0.016610007966444913,
+      "perplexity": 1.9160711765289307,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 20,
+      "position": 5,
+      "delta": 0.018551466152054445,
+      "perplexity": 102.17890167236328,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 20,
+      "position": 6,
+      "delta": 0.014299832614798199,
+      "perplexity": 536.8475341796875,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 20,
+      "position": 7,
+      "delta": 0.020112572995614888,
+      "perplexity": 8.88724422454834,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 21,
+      "position": 0,
+      "delta": 0.21995259101194897,
+      "perplexity": 15031.0908203125,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 21,
+      "position": 1,
+      "delta": 0.023542785967656837,
+      "perplexity": 2.0068094730377197,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 21,
+      "position": 2,
+      "delta": 0.024736548749358774,
+      "perplexity": 23.7697696685791,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 21,
+      "position": 3,
+      "delta": 0.01711062186382284,
+      "perplexity": 174.59231567382812,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 21,
+      "position": 4,
+      "delta": 0.020717062484296892,
+      "perplexity": 1.724433183670044,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 21,
+      "position": 5,
+      "delta": 0.02353489395878402,
+      "perplexity": 78.92167663574219,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 21,
+      "position": 6,
+      "delta": 0.016933435294917098,
+      "perplexity": 2853.9765625,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 21,
+      "position": 7,
+      "delta": 0.018008173243155654,
+      "perplexity": 1.0002228021621704,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 21,
+      "position": 8,
+      "delta": 0.01361050082298271,
+      "perplexity": 3.9242732524871826,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 22,
+      "position": 0,
+      "delta": 0.19105302547480665,
+      "perplexity": 12973.783203125,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 22,
+      "position": 1,
+      "delta": 0.021505552472296803,
+      "perplexity": 4.731987953186035,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 22,
+      "position": 2,
+      "delta": 0.02469410917323502,
+      "perplexity": 223.26524353027344,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 22,
+      "position": 3,
+      "delta": 0.018721250683973237,
+      "perplexity": 11.358663558959961,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 22,
+      "position": 4,
+      "delta": 0.02113864007113847,
+      "perplexity": 131.91217041015625,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 22,
+      "position": 5,
+      "delta": 0.024205821136623,
+      "perplexity": 13.331336975097656,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 22,
+      "position": 6,
+      "delta": 0.017677563235549903,
+      "perplexity": 9.720792770385742,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 22,
+      "position": 7,
+      "delta": 0.01996442478783912,
+      "perplexity": 4.346835136413574,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 0,
+      "delta": 0.2725691348017809,
+      "perplexity": 19831.998046875,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 1,
+      "delta": 0.028975420200741963,
+      "perplexity": 13.70006275177002,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 2,
+      "delta": 0.020350580968970904,
+      "perplexity": 5795.908203125,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 3,
+      "delta": 0.02230120400739607,
+      "perplexity": 79202.203125,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 4,
+      "delta": 0.017624444128327085,
+      "perplexity": 5.787438869476318,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 5,
+      "delta": 0.02115852793409106,
+      "perplexity": 20.203031539916992,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 6,
+      "delta": 0.026804782824794683,
+      "perplexity": 1472.7315673828125,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 7,
+      "delta": 0.015790857287013172,
+      "perplexity": 1.0350942611694336,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 8,
+      "delta": 0.021310595602030646,
+      "perplexity": 1.0007655620574951,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 23,
+      "position": 9,
+      "delta": 0.024424460427783637,
+      "perplexity": 13.582650184631348,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 24,
+      "position": 0,
+      "delta": 0.3025579134606694,
+      "perplexity": 208.98365783691406,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 24,
+      "position": 1,
+      "delta": 0.026435145478840384,
+      "perplexity": 7741.95556640625,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 24,
+      "position": 2,
+      "delta": 0.018452693334734913,
+      "perplexity": 16.388578414916992,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 24,
+      "position": 3,
+      "delta": 0.02060080166596212,
+      "perplexity": 46.71333312988281,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 24,
+      "position": 4,
+      "delta": 0.01610209911429254,
+      "perplexity": 3.5764636993408203,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 24,
+      "position": 5,
+      "delta": 0.02298873125495175,
+      "perplexity": 17.6583309173584,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 24,
+      "position": 6,
+      "delta": 0.015986041228848002,
+      "perplexity": 3.1327102184295654,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 25,
+      "position": 0,
+      "delta": 0.3095994353250723,
+      "perplexity": 34592.3359375,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 25,
+      "position": 1,
+      "delta": 0.017881222705591802,
+      "perplexity": 3071.878662109375,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 25,
+      "position": 2,
+      "delta": 0.023193886513434195,
+      "perplexity": 22818.6328125,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 25,
+      "position": 3,
+      "delta": 0.030040945421827357,
+      "perplexity": 13.69105052947998,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 25,
+      "position": 4,
+      "delta": 0.022079008350744597,
+      "perplexity": 12.023265838623047,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 25,
+      "position": 5,
+      "delta": 0.018257168899581618,
+      "perplexity": 1237.373291015625,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 25,
+      "position": 6,
+      "delta": 0.016716690919461895,
+      "perplexity": 385.8323059082031,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 25,
+      "position": 7,
+      "delta": 0.01574687424347395,
+      "perplexity": 5.461567401885986,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 0,
+      "delta": 0.3352733531732428,
+      "perplexity": 163.64503479003906,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 1,
+      "delta": 0.02186811540599667,
+      "perplexity": 174.39736938476562,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 2,
+      "delta": 0.020526481167200454,
+      "perplexity": 11853.3896484375,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 3,
+      "delta": 0.02153595211292326,
+      "perplexity": 8.941704750061035,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 4,
+      "delta": 0.01983955665182145,
+      "perplexity": 8449.080078125,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 5,
+      "delta": 0.016382439798158507,
+      "perplexity": 3.279498338699341,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 6,
+      "delta": 0.031042887098989606,
+      "perplexity": 12.2390718460083,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 7,
+      "delta": 0.021820866294095038,
+      "perplexity": 52071.2734375,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 8,
+      "delta": 0.0190989104272344,
+      "perplexity": 97.02284240722656,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 9,
+      "delta": 0.02008330413455474,
+      "perplexity": 1.0002353191375732,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 10,
+      "delta": 0.022296742300862784,
+      "perplexity": 1.0050569772720337,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 26,
+      "position": 11,
+      "delta": 0.022475778068411712,
+      "perplexity": 4.309349536895752,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 27,
+      "position": 0,
+      "delta": 0.4875659452696703,
+      "perplexity": 51066.07421875,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 27,
+      "position": 1,
+      "delta": 0.02754917159276193,
+      "perplexity": 252095.65625,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 27,
+      "position": 2,
+      "delta": 0.019202774985230587,
+      "perplexity": 1.1421750783920288,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 27,
+      "position": 3,
+      "delta": 0.023313806285228663,
+      "perplexity": 9632.7314453125,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 27,
+      "position": 4,
+      "delta": 0.023026557317249487,
+      "perplexity": 14.321245193481445,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 27,
+      "position": 5,
+      "delta": 0.026981042910769512,
+      "perplexity": 44.853309631347656,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 27,
+      "position": 6,
+      "delta": 0.018739491661589294,
+      "perplexity": 613.3374633789062,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 27,
+      "position": 7,
+      "delta": 0.020794161854279247,
+      "perplexity": 826.2626953125,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 27,
+      "position": 8,
+      "delta": 0.026705622891088684,
+      "perplexity": 3.1833677291870117,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 28,
+      "position": 0,
+      "delta": 0.27811902655224907,
+      "perplexity": 77479.5,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 28,
+      "position": 1,
+      "delta": 0.015268094799032706,
+      "perplexity": 139437.171875,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 28,
+      "position": 2,
+      "delta": 0.02410758524987033,
+      "perplexity": 34515.2265625,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 28,
+      "position": 3,
+      "delta": 0.024420137169635148,
+      "perplexity": 1.6596683263778687,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 28,
+      "position": 4,
+      "delta": 0.02382321748376745,
+      "perplexity": 433.0987548828125,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 28,
+      "position": 5,
+      "delta": 0.019348006809493234,
+      "perplexity": 36629.58984375,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 28,
+      "position": 6,
+      "delta": 0.018402036292833098,
+      "perplexity": 211.26296997070312,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 28,
+      "position": 7,
+      "delta": 0.02755673784196815,
+      "perplexity": 3.631704330444336,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 0,
+      "delta": 0.2571540402128183,
+      "perplexity": 249497.96875,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 1,
+      "delta": 0.025373884710082634,
+      "perplexity": 8787.8994140625,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 2,
+      "delta": 0.015041501438446663,
+      "perplexity": 18.251495361328125,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 3,
+      "delta": 0.027405307393384978,
+      "perplexity": 1.1077158451080322,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 4,
+      "delta": 0.024205470384385787,
+      "perplexity": 855991.8125,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 5,
+      "delta": 0.02698148697353276,
+      "perplexity": 12430.5654296875,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 6,
+      "delta": 0.023414342461126413,
+      "perplexity": 14.135384559631348,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 7,
+      "delta": 0.029088469120077978,
+      "perplexity": 19.759191513061523,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 8,
+      "delta": 0.026798262971409827,
+      "perplexity": 49941.4375,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 29,
+      "position": 9,
+      "delta": 0.01967816611266642,
+      "perplexity": 25.332860946655273,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 0,
+      "delta": 0.30474574818489764,
+      "perplexity": 23792.26953125,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 1,
+      "delta": 0.024387031834200528,
+      "perplexity": 36857.078125,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 2,
+      "delta": 0.019900263299245963,
+      "perplexity": 8.1657133102417,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 3,
+      "delta": 0.023478082039151627,
+      "perplexity": 48.2321662902832,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 4,
+      "delta": 0.019933669711042525,
+      "perplexity": 6.377324104309082,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 5,
+      "delta": 0.01658484736293352,
+      "perplexity": 3991.47412109375,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 6,
+      "delta": 0.02108918190739185,
+      "perplexity": 1.0765559673309326,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 7,
+      "delta": 0.02082738933912986,
+      "perplexity": 1617.041259765625,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 8,
+      "delta": 0.02547760575627897,
+      "perplexity": 644.5556640625,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 30,
+      "position": 9,
+      "delta": 0.016699239720632066,
+      "perplexity": 5.8464531898498535,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 0,
+      "delta": 0.13345679641270713,
+      "perplexity": 39285.22265625,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 1,
+      "delta": 0.021535070665029427,
+      "perplexity": 65.34882354736328,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 2,
+      "delta": 0.02124040567400639,
+      "perplexity": 4.065038681030273,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 3,
+      "delta": 0.021395090031327335,
+      "perplexity": 1.034300684928894,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 4,
+      "delta": 0.022710285669026085,
+      "perplexity": 16637.646484375,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 5,
+      "delta": 0.0173358416971056,
+      "perplexity": 69881.1015625,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 6,
+      "delta": 0.026384742310698414,
+      "perplexity": 6.411874294281006,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 7,
+      "delta": 0.0234576742840952,
+      "perplexity": 3.0585711002349854,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 8,
+      "delta": 0.023056029023561683,
+      "perplexity": 225.7230224609375,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 31,
+      "position": 9,
+      "delta": 0.022746126601400816,
+      "perplexity": 11.199236869812012,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 0,
+      "delta": 0.32140611543904646,
+      "perplexity": 1462.12451171875,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 1,
+      "delta": 0.02194824662159408,
+      "perplexity": 11.641563415527344,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 2,
+      "delta": 0.019859850213230737,
+      "perplexity": 41.7321662902832,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 3,
+      "delta": 0.020142951090492914,
+      "perplexity": 2.1039986610412598,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 4,
+      "delta": 0.02740579804879912,
+      "perplexity": 939656.9375,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 5,
+      "delta": 0.024963195441867383,
+      "perplexity": 14026.4931640625,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 6,
+      "delta": 0.02269244147322414,
+      "perplexity": 200.08090209960938,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 7,
+      "delta": 0.025481892079051518,
+      "perplexity": 1301.8768310546875,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 8,
+      "delta": 0.020239171149416237,
+      "perplexity": 26.69158172607422,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 32,
+      "position": 9,
+      "delta": 0.019052452162316293,
+      "perplexity": 3.366764783859253,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 33,
+      "position": 0,
+      "delta": 0.2580595640309717,
+      "perplexity": 67468.5703125,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 4,
+      "sentence_id": 33,
+      "position": 1,
+      "delta": 0.0208166225310912,
+      "perplexity": 3643723.75,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 4,
+      "sentence_id": 33,
+      "position": 2,
+      "delta": 0.022497837160439824,
+      "perplexity": 7265.36572265625,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 4,
+      "sentence_id": 33,
+      "position": 3,
+      "delta": 0.02227513026602689,
+      "perplexity": 426151.5,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 4,
+      "sentence_id": 33,
+      "position": 4,
+      "delta": 0.02830901418793838,
+      "perplexity": 1758.129638671875,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 4,
+      "sentence_id": 33,
+      "position": 5,
+      "delta": 0.0220291210753924,
+      "perplexity": 1.1558606624603271,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 4,
+      "sentence_id": 33,
+      "position": 6,
+      "delta": 0.018393372059759716,
+      "perplexity": 516.7363891601562,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 4,
+      "sentence_id": 33,
+      "position": 7,
+      "delta": 0.02074796223679002,
+      "perplexity": 2.2025468349456787,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 4,
+      "sentence_id": 34,
+      "position": 0,
+      "delta": 0.4195865328099413,
+      "perplexity": 1377.9354248046875,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 34,
+      "position": 1,
+      "delta": 0.023558220077465098,
+      "perplexity": 1071.181640625,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 34,
+      "position": 2,
+      "delta": 0.01908503149760493,
+      "perplexity": 798.65380859375,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 34,
+      "position": 3,
+      "delta": 0.01638267938361993,
+      "perplexity": 15260.779296875,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 34,
+      "position": 4,
+      "delta": 0.02018722543546267,
+      "perplexity": 28.922103881835938,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 34,
+      "position": 5,
+      "delta": 0.023126641138372477,
+      "perplexity": 6.549563884735107,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 34,
+      "position": 6,
+      "delta": 0.023885421240193275,
+      "perplexity": 5.0186285972595215,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 34,
+      "position": 7,
+      "delta": 0.021035114137303915,
+      "perplexity": 113976.796875,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 34,
+      "position": 8,
+      "delta": 0.01906988878769528,
+      "perplexity": 3.665146827697754,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 4,
+      "sentence_id": 35,
+      "position": 0,
+      "delta": 0.17033600708645408,
+      "perplexity": 54297.5859375,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 35,
+      "position": 1,
+      "delta": 0.021365580165319344,
+      "perplexity": 197255.109375,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 35,
+      "position": 2,
+      "delta": 0.01770460090995409,
+      "perplexity": 4405787.0,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 35,
+      "position": 3,
+      "delta": 0.01302595295602523,
+      "perplexity": 345.7712707519531,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 35,
+      "position": 4,
+      "delta": 0.018998332625827646,
+      "perplexity": 68.28251647949219,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 4,
+      "sentence_id": 35,
+      "position": 5,
+      "delta": 0.020005060229600594,
+      "perplexity": 12.996147155761719,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 0,
+      "position": 0,
+      "delta": 0.3539525642490347,
+      "perplexity": 8687.5556640625,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 0,
+      "position": 1,
+      "delta": 0.016540070607019685,
+      "perplexity": 6.08969259262085,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 0,
+      "position": 2,
+      "delta": 0.020026231498853228,
+      "perplexity": 152.9142303466797,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 0,
+      "position": 3,
+      "delta": 0.01344158848140046,
+      "perplexity": 8.220215797424316,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 0,
+      "position": 4,
+      "delta": 0.016106710125203847,
+      "perplexity": 31.012632369995117,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 0,
+      "position": 5,
+      "delta": 0.01676452949699235,
+      "perplexity": 3.8286120891571045,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 1,
+      "position": 0,
+      "delta": 0.2712322391270685,
+      "perplexity": 358456.71875,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 1,
+      "position": 1,
+      "delta": 0.020896475866266726,
+      "perplexity": 20.88544464111328,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 1,
+      "position": 2,
+      "delta": 0.018501251454414478,
+      "perplexity": 40.710567474365234,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 1,
+      "position": 3,
+      "delta": 0.016568622620344232,
+      "perplexity": 3.656996488571167,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 1,
+      "position": 4,
+      "delta": 0.023663032977669217,
+      "perplexity": 13.428101539611816,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 1,
+      "position": 5,
+      "delta": 0.021331740608101845,
+      "perplexity": 4.440216064453125,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 2,
+      "position": 0,
+      "delta": 0.2056620920313049,
+      "perplexity": 6138.98095703125,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 2,
+      "position": 1,
+      "delta": 0.014570624760882452,
+      "perplexity": 629.1617431640625,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 2,
+      "position": 2,
+      "delta": 0.018071968992146498,
+      "perplexity": 18.88587188720703,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 2,
+      "position": 3,
+      "delta": 0.01640263798883834,
+      "perplexity": 1.897983431816101,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 2,
+      "position": 4,
+      "delta": 0.012336416949990872,
+      "perplexity": 2.117906332015991,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 2,
+      "position": 5,
+      "delta": 0.019973279602399262,
+      "perplexity": 9.63014030456543,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 3,
+      "position": 0,
+      "delta": 0.5044337387658328,
+      "perplexity": 38429.09375,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 3,
+      "position": 1,
+      "delta": 0.01871111135952656,
+      "perplexity": 39.423465728759766,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 3,
+      "position": 2,
+      "delta": 0.018461536720688235,
+      "perplexity": 10598.642578125,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 3,
+      "position": 3,
+      "delta": 0.017840867258192377,
+      "perplexity": 1.0109977722167969,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 3,
+      "position": 4,
+      "delta": 0.017018348662041053,
+      "perplexity": 16.518115997314453,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 3,
+      "position": 5,
+      "delta": 0.01532174794995758,
+      "perplexity": 171.98159790039062,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 3,
+      "position": 6,
+      "delta": 0.02029655269214504,
+      "perplexity": 1.041352391242981,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 3,
+      "position": 7,
+      "delta": 0.018516816365888193,
+      "perplexity": 1.0000964403152466,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 3,
+      "position": 8,
+      "delta": 0.013614890854607816,
+      "perplexity": 6.956355094909668,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 4,
+      "position": 0,
+      "delta": 0.4076839705235999,
+      "perplexity": 1017.1853637695312,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 4,
+      "position": 1,
+      "delta": 0.01683614296359371,
+      "perplexity": 12.697994232177734,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 4,
+      "position": 2,
+      "delta": 0.018484418899092497,
+      "perplexity": 171.09835815429688,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 4,
+      "position": 3,
+      "delta": 0.018004051729830578,
+      "perplexity": 37.788551330566406,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 4,
+      "position": 4,
+      "delta": 0.014154005968766308,
+      "perplexity": 2.3518471717834473,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 4,
+      "position": 5,
+      "delta": 0.016554023016198467,
+      "perplexity": 36.98419952392578,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 4,
+      "position": 6,
+      "delta": 0.01882969719858559,
+      "perplexity": 8.84091567993164,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 5,
+      "position": 0,
+      "delta": 0.3237874187614024,
+      "perplexity": 516518.90625,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 5,
+      "position": 1,
+      "delta": 0.019238640813568908,
+      "perplexity": 4530.68603515625,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 5,
+      "position": 2,
+      "delta": 0.013647259809511628,
+      "perplexity": 70.015380859375,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 5,
+      "position": 3,
+      "delta": 0.016662845730543826,
+      "perplexity": 3.065639019012451,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 5,
+      "position": 4,
+      "delta": 0.013142328566051712,
+      "perplexity": 2.995314121246338,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 5,
+      "position": 5,
+      "delta": 0.023054832176587554,
+      "perplexity": 4.98203182220459,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 6,
+      "position": 0,
+      "delta": 0.29348829783750024,
+      "perplexity": 3102.160400390625,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 6,
+      "position": 1,
+      "delta": 0.015147534843538268,
+      "perplexity": 44.8156623840332,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 6,
+      "position": 2,
+      "delta": 0.015351535145318437,
+      "perplexity": 2.219194173812866,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 6,
+      "position": 3,
+      "delta": 0.01649185856723692,
+      "perplexity": 1.0778692960739136,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 6,
+      "position": 4,
+      "delta": 0.01322687285502703,
+      "perplexity": 13.903039932250977,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 6,
+      "position": 5,
+      "delta": 0.014565196019646063,
+      "perplexity": 221.24591064453125,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 6,
+      "position": 6,
+      "delta": 0.014894570212254932,
+      "perplexity": 3.2603204250335693,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 6,
+      "position": 7,
+      "delta": 0.018442992385922726,
+      "perplexity": 463.76373291015625,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 6,
+      "position": 8,
+      "delta": 0.013715521837636795,
+      "perplexity": 3.307602882385254,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 7,
+      "position": 0,
+      "delta": 0.18119815888944307,
+      "perplexity": 591.8527221679688,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 7,
+      "position": 1,
+      "delta": 0.021604578887530878,
+      "perplexity": 60.518531799316406,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 7,
+      "position": 2,
+      "delta": 0.021330752269719627,
+      "perplexity": 17415.314453125,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 7,
+      "position": 3,
+      "delta": 0.019017572481372168,
+      "perplexity": 5.312133312225342,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 7,
+      "position": 4,
+      "delta": 0.01665248640863593,
+      "perplexity": 472.0952453613281,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 7,
+      "position": 5,
+      "delta": 0.017086792189418373,
+      "perplexity": 1.1056783199310303,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 7,
+      "position": 6,
+      "delta": 0.01409109201488537,
+      "perplexity": 15.69500732421875,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 7,
+      "position": 7,
+      "delta": 0.01471606472297184,
+      "perplexity": 6.622836112976074,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 8,
+      "position": 0,
+      "delta": 0.2648292832571167,
+      "perplexity": 20881.10546875,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 8,
+      "position": 1,
+      "delta": 0.017360651564244586,
+      "perplexity": 24.934581756591797,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 8,
+      "position": 2,
+      "delta": 0.014485396809487057,
+      "perplexity": 7.075277328491211,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 8,
+      "position": 3,
+      "delta": 0.023255601635121068,
+      "perplexity": 13.55055046081543,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 8,
+      "position": 4,
+      "delta": 0.014369274538009891,
+      "perplexity": 11.050253868103027,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 8,
+      "position": 5,
+      "delta": 0.014245431903825472,
+      "perplexity": 5.540547847747803,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 8,
+      "position": 6,
+      "delta": 0.01500640293089732,
+      "perplexity": 12.298667907714844,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 8,
+      "position": 7,
+      "delta": 0.017314495430845733,
+      "perplexity": 1.414231538772583,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 8,
+      "position": 8,
+      "delta": 0.02184175746112421,
+      "perplexity": 4.523439884185791,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 9,
+      "position": 0,
+      "delta": 0.23274890893798905,
+      "perplexity": 4104.810546875,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 9,
+      "position": 1,
+      "delta": 0.022497674551904556,
+      "perplexity": 1.0632489919662476,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 9,
+      "position": 2,
+      "delta": 0.016795067930979016,
+      "perplexity": 1016.5245361328125,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 9,
+      "position": 3,
+      "delta": 0.015174420696924776,
+      "perplexity": 4.2462477684021,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 9,
+      "position": 4,
+      "delta": 0.018941997730190112,
+      "perplexity": 119.06707000732422,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 9,
+      "position": 5,
+      "delta": 0.014899835615353086,
+      "perplexity": 1.0977139472961426,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 9,
+      "position": 6,
+      "delta": 0.016389560797788538,
+      "perplexity": 14.587177276611328,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 10,
+      "position": 0,
+      "delta": 0.40160479936198423,
+      "perplexity": 57841.60546875,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 10,
+      "position": 1,
+      "delta": 0.02384265982551274,
+      "perplexity": 4.627824783325195,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 10,
+      "position": 2,
+      "delta": 0.01819719901555918,
+      "perplexity": 20.436384201049805,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 10,
+      "position": 3,
+      "delta": 0.017474217443841686,
+      "perplexity": 24.816085815429688,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 10,
+      "position": 4,
+      "delta": 0.020078374150588326,
+      "perplexity": 3.292767286300659,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 10,
+      "position": 5,
+      "delta": 0.017410296651935466,
+      "perplexity": 422.6575012207031,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 10,
+      "position": 6,
+      "delta": 0.017638256153547006,
+      "perplexity": 16.627870559692383,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 11,
+      "position": 0,
+      "delta": 0.2454706139349481,
+      "perplexity": 120.49966430664062,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 11,
+      "position": 1,
+      "delta": 0.014658118584166721,
+      "perplexity": 33.505088806152344,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 11,
+      "position": 2,
+      "delta": 0.0162441093445548,
+      "perplexity": 1031.196044921875,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 11,
+      "position": 3,
+      "delta": 0.012084421639780725,
+      "perplexity": 342.188720703125,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 11,
+      "position": 4,
+      "delta": 0.01782989147799875,
+      "perplexity": 196.04806518554688,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 11,
+      "position": 5,
+      "delta": 0.017429973017632466,
+      "perplexity": 8.271039962768555,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 11,
+      "position": 6,
+      "delta": 0.01832934293446364,
+      "perplexity": 6.654029846191406,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 0,
+      "delta": 0.333389516169936,
+      "perplexity": 19202.1171875,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 1,
+      "delta": 0.020255057253940875,
+      "perplexity": 372.3038024902344,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 2,
+      "delta": 0.018609438943891762,
+      "perplexity": 1.1940975189208984,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 3,
+      "delta": 0.016979541047233277,
+      "perplexity": 827.5626831054688,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 4,
+      "delta": 0.013784695796516986,
+      "perplexity": 353.381591796875,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 5,
+      "delta": 0.014216033451629436,
+      "perplexity": 4.5343017578125,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 6,
+      "delta": 0.02103730603589981,
+      "perplexity": 1.2746931314468384,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 7,
+      "delta": 0.015469459799382225,
+      "perplexity": 278.17559814453125,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 8,
+      "delta": 0.012296983381405353,
+      "perplexity": 1.0037808418273926,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 9,
+      "delta": 0.01749729105987805,
+      "perplexity": 130.51866149902344,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 12,
+      "position": 10,
+      "delta": 0.016204745585628077,
+      "perplexity": 4.80399227142334,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 0,
+      "delta": 0.1875864400640722,
+      "perplexity": 11994.0751953125,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 1,
+      "delta": 0.020709282231869536,
+      "perplexity": 182.89442443847656,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 2,
+      "delta": 0.017118425716259128,
+      "perplexity": 30.68504524230957,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 3,
+      "delta": 0.02213568928503568,
+      "perplexity": 1.0004721879959106,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 4,
+      "delta": 0.016879739416182992,
+      "perplexity": 5745.62890625,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 5,
+      "delta": 0.016293746904832034,
+      "perplexity": 5.327917098999023,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 6,
+      "delta": 0.014628630256887794,
+      "perplexity": 2471.03125,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 7,
+      "delta": 0.016065346303086845,
+      "perplexity": 2.5862462520599365,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 8,
+      "delta": 0.017141384969230344,
+      "perplexity": 1.0093618631362915,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 13,
+      "position": 9,
+      "delta": 0.023932442356083213,
+      "perplexity": 12.41407299041748,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 0,
+      "delta": 0.30141105839512,
+      "perplexity": 5200.37548828125,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 1,
+      "delta": 0.01658098230910458,
+      "perplexity": 2.8456761837005615,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 2,
+      "delta": 0.015401542041916103,
+      "perplexity": 11.634221076965332,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 3,
+      "delta": 0.017303493571946067,
+      "perplexity": 4.726280689239502,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 4,
+      "delta": 0.01830182912341992,
+      "perplexity": 657.7079467773438,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 5,
+      "delta": 0.01673203891664644,
+      "perplexity": 121.19634246826172,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 6,
+      "delta": 0.015045975447538003,
+      "perplexity": 19.86389923095703,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 7,
+      "delta": 0.025284766732021926,
+      "perplexity": 1.014304280281067,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 8,
+      "delta": 0.017160331400327945,
+      "perplexity": 11.327028274536133,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 9,
+      "delta": 0.014920880249514623,
+      "perplexity": 1.3081018924713135,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 10,
+      "delta": 0.015970641299752526,
+      "perplexity": 19.719465255737305,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 14,
+      "position": 11,
+      "delta": 0.016061771717621222,
+      "perplexity": 3.206973075866699,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 15,
+      "position": 0,
+      "delta": 0.2675795478673829,
+      "perplexity": 138294.015625,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 15,
+      "position": 1,
+      "delta": 0.02149069672803703,
+      "perplexity": 16.409095764160156,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 15,
+      "position": 2,
+      "delta": 0.015787023316384503,
+      "perplexity": 12.97304916381836,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 15,
+      "position": 3,
+      "delta": 0.01569930883186741,
+      "perplexity": 11.360559463500977,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 15,
+      "position": 4,
+      "delta": 0.015642868882032673,
+      "perplexity": 5.25233268737793,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 15,
+      "position": 5,
+      "delta": 0.013854246178676552,
+      "perplexity": 5.949069499969482,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 15,
+      "position": 6,
+      "delta": 0.015441228905529724,
+      "perplexity": 3.1895992755889893,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 15,
+      "position": 7,
+      "delta": 0.012770867353028936,
+      "perplexity": 3.692255735397339,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 16,
+      "position": 0,
+      "delta": 0.3309300848271185,
+      "perplexity": 1980.415771484375,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 16,
+      "position": 1,
+      "delta": 0.022826580482797742,
+      "perplexity": 4.974903106689453,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 16,
+      "position": 2,
+      "delta": 0.020554804053317707,
+      "perplexity": 12.429203987121582,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 16,
+      "position": 3,
+      "delta": 0.0133073658421895,
+      "perplexity": 60514.4375,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 16,
+      "position": 4,
+      "delta": 0.014777362514152273,
+      "perplexity": 196.9145050048828,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 16,
+      "position": 5,
+      "delta": 0.024697457302249846,
+      "perplexity": 7.91326379776001,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 17,
+      "position": 0,
+      "delta": 0.1984476061640315,
+      "perplexity": 186645.203125,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 17,
+      "position": 1,
+      "delta": 0.018350931734166718,
+      "perplexity": 51.98143768310547,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 17,
+      "position": 2,
+      "delta": 0.01828506359017411,
+      "perplexity": 2.1765265464782715,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 17,
+      "position": 3,
+      "delta": 0.01584236159622053,
+      "perplexity": 1.0030075311660767,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 17,
+      "position": 4,
+      "delta": 0.016307612930110564,
+      "perplexity": 25792.224609375,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 17,
+      "position": 5,
+      "delta": 0.023225563708459507,
+      "perplexity": 2425.87890625,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 17,
+      "position": 6,
+      "delta": 0.022907735949970146,
+      "perplexity": 89.1556396484375,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 17,
+      "position": 7,
+      "delta": 0.020063104548127406,
+      "perplexity": 1.4506741762161255,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 17,
+      "position": 8,
+      "delta": 0.01438237581905354,
+      "perplexity": 13.622598648071289,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 18,
+      "position": 0,
+      "delta": 0.24693233279158963,
+      "perplexity": 53091.40234375,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 18,
+      "position": 1,
+      "delta": 0.01476499199929718,
+      "perplexity": 2.0593695640563965,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 18,
+      "position": 2,
+      "delta": 0.014877976322181831,
+      "perplexity": 59.221717834472656,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 18,
+      "position": 3,
+      "delta": 0.017079847750421092,
+      "perplexity": 2.9047908782958984,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 18,
+      "position": 4,
+      "delta": 0.01735419181800964,
+      "perplexity": 47.141387939453125,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 18,
+      "position": 5,
+      "delta": 0.015552794985870966,
+      "perplexity": 17.266660690307617,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 19,
+      "position": 0,
+      "delta": 0.33424263799503356,
+      "perplexity": 26710.880859375,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 19,
+      "position": 1,
+      "delta": 0.01860762921572745,
+      "perplexity": 319.84808349609375,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 19,
+      "position": 2,
+      "delta": 0.013588578959517164,
+      "perplexity": 3.825113534927368,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 19,
+      "position": 3,
+      "delta": 0.018662139973052008,
+      "perplexity": 43.168846130371094,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 19,
+      "position": 4,
+      "delta": 0.0313598843897493,
+      "perplexity": 41.311153411865234,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 19,
+      "position": 5,
+      "delta": 0.01316863724860725,
+      "perplexity": 27.546449661254883,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 19,
+      "position": 6,
+      "delta": 0.01864058963437958,
+      "perplexity": 4.545222759246826,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 19,
+      "position": 7,
+      "delta": 0.01646451969744241,
+      "perplexity": 3.1135308742523193,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 20,
+      "position": 0,
+      "delta": 0.38092929015853133,
+      "perplexity": 177476.1875,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 20,
+      "position": 1,
+      "delta": 0.016878205698063056,
+      "perplexity": 26.865392684936523,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 20,
+      "position": 2,
+      "delta": 0.01702442847147766,
+      "perplexity": 5.520791053771973,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 20,
+      "position": 3,
+      "delta": 0.01400081551126063,
+      "perplexity": 17.30518341064453,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 20,
+      "position": 4,
+      "delta": 0.0160281106940106,
+      "perplexity": 1.9160711765289307,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 20,
+      "position": 5,
+      "delta": 0.016178202600737872,
+      "perplexity": 102.17890167236328,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 20,
+      "position": 6,
+      "delta": 0.011259703327270408,
+      "perplexity": 536.8475341796875,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 20,
+      "position": 7,
+      "delta": 0.019655845535741474,
+      "perplexity": 8.88724422454834,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 21,
+      "position": 0,
+      "delta": 0.2749261000097713,
+      "perplexity": 15031.0908203125,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 21,
+      "position": 1,
+      "delta": 0.021352733452151152,
+      "perplexity": 2.0068094730377197,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 21,
+      "position": 2,
+      "delta": 0.0148678467049411,
+      "perplexity": 23.7697696685791,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 21,
+      "position": 3,
+      "delta": 0.021382135886485618,
+      "perplexity": 174.59231567382812,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 21,
+      "position": 4,
+      "delta": 0.016815174539609175,
+      "perplexity": 1.724433183670044,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 21,
+      "position": 5,
+      "delta": 0.01315600441422008,
+      "perplexity": 78.92167663574219,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 21,
+      "position": 6,
+      "delta": 0.014353560641791621,
+      "perplexity": 2853.9765625,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 21,
+      "position": 7,
+      "delta": 0.016024114268495128,
+      "perplexity": 1.0002228021621704,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 21,
+      "position": 8,
+      "delta": 0.01934518155093313,
+      "perplexity": 3.9242732524871826,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 22,
+      "position": 0,
+      "delta": 0.1738934809302506,
+      "perplexity": 12973.783203125,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 22,
+      "position": 1,
+      "delta": 0.019319688409958766,
+      "perplexity": 4.731987953186035,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 22,
+      "position": 2,
+      "delta": 0.026073819292819274,
+      "perplexity": 223.26524353027344,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 22,
+      "position": 3,
+      "delta": 0.01844034100152986,
+      "perplexity": 11.358663558959961,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 22,
+      "position": 4,
+      "delta": 0.016242312303406815,
+      "perplexity": 131.91217041015625,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 22,
+      "position": 5,
+      "delta": 0.01915163869882684,
+      "perplexity": 13.331336975097656,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 22,
+      "position": 6,
+      "delta": 0.017121816732455976,
+      "perplexity": 9.720792770385742,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 22,
+      "position": 7,
+      "delta": 0.021720802829351783,
+      "perplexity": 4.346835136413574,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 0,
+      "delta": 0.21140369229116748,
+      "perplexity": 19831.998046875,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 1,
+      "delta": 0.019179221214951726,
+      "perplexity": 13.70006275177002,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 2,
+      "delta": 0.01817235974477815,
+      "perplexity": 5795.908203125,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 3,
+      "delta": 0.01923050968123801,
+      "perplexity": 79202.203125,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 4,
+      "delta": 0.019025478227948527,
+      "perplexity": 5.787438869476318,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 5,
+      "delta": 0.02046433487379954,
+      "perplexity": 20.203031539916992,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 6,
+      "delta": 0.017596467230409578,
+      "perplexity": 1472.7315673828125,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 7,
+      "delta": 0.013144526667870728,
+      "perplexity": 1.0350942611694336,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 8,
+      "delta": 0.017681839201773433,
+      "perplexity": 1.0007655620574951,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 23,
+      "position": 9,
+      "delta": 0.013495681971020617,
+      "perplexity": 13.582650184631348,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 24,
+      "position": 0,
+      "delta": 0.22672028518206733,
+      "perplexity": 208.98365783691406,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 24,
+      "position": 1,
+      "delta": 0.015557740475034797,
+      "perplexity": 7741.95556640625,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 24,
+      "position": 2,
+      "delta": 0.019359867269205907,
+      "perplexity": 16.388578414916992,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 24,
+      "position": 3,
+      "delta": 0.01957990829287526,
+      "perplexity": 46.71333312988281,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 24,
+      "position": 4,
+      "delta": 0.019479585362580775,
+      "perplexity": 3.5764636993408203,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 24,
+      "position": 5,
+      "delta": 0.01202442107090847,
+      "perplexity": 17.6583309173584,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 24,
+      "position": 6,
+      "delta": 0.019232814082867387,
+      "perplexity": 3.1327102184295654,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 25,
+      "position": 0,
+      "delta": 0.4848281439193431,
+      "perplexity": 34592.3359375,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 25,
+      "position": 1,
+      "delta": 0.023366919037203077,
+      "perplexity": 3071.878662109375,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 25,
+      "position": 2,
+      "delta": 0.026322794319874554,
+      "perplexity": 22818.6328125,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 25,
+      "position": 3,
+      "delta": 0.01861571073263624,
+      "perplexity": 13.69105052947998,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 25,
+      "position": 4,
+      "delta": 0.01180253657307103,
+      "perplexity": 12.023265838623047,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 25,
+      "position": 5,
+      "delta": 0.011555620979859463,
+      "perplexity": 1237.373291015625,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 25,
+      "position": 6,
+      "delta": 0.016122753165775685,
+      "perplexity": 385.8323059082031,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 25,
+      "position": 7,
+      "delta": 0.02049435866974624,
+      "perplexity": 5.461567401885986,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 0,
+      "delta": 0.25936638828638553,
+      "perplexity": 163.64503479003906,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 1,
+      "delta": 0.019102422219144564,
+      "perplexity": 174.39736938476562,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 2,
+      "delta": 0.013382361429242717,
+      "perplexity": 11853.3896484375,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 3,
+      "delta": 0.017520466430354494,
+      "perplexity": 8.941704750061035,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 4,
+      "delta": 0.018063675349261517,
+      "perplexity": 8449.080078125,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 5,
+      "delta": 0.013955914547274403,
+      "perplexity": 3.279498338699341,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 6,
+      "delta": 0.017895361216408865,
+      "perplexity": 12.2390718460083,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 7,
+      "delta": 0.020040116522473783,
+      "perplexity": 52071.2734375,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 8,
+      "delta": 0.016280337675537427,
+      "perplexity": 97.02284240722656,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 9,
+      "delta": 0.02163879429581107,
+      "perplexity": 1.0002353191375732,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 10,
+      "delta": 0.025762394033902455,
+      "perplexity": 1.0050569772720337,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 26,
+      "position": 11,
+      "delta": 0.02156135548922228,
+      "perplexity": 4.309349536895752,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 27,
+      "position": 0,
+      "delta": 0.2482610898934665,
+      "perplexity": 51066.07421875,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 27,
+      "position": 1,
+      "delta": 0.01939078198148223,
+      "perplexity": 252095.65625,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 27,
+      "position": 2,
+      "delta": 0.017934019604198735,
+      "perplexity": 1.1421750783920288,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 27,
+      "position": 3,
+      "delta": 0.020495157630438132,
+      "perplexity": 9632.7314453125,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 27,
+      "position": 4,
+      "delta": 0.01784387429826828,
+      "perplexity": 14.321245193481445,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 27,
+      "position": 5,
+      "delta": 0.01972924132383424,
+      "perplexity": 44.853309631347656,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 27,
+      "position": 6,
+      "delta": 0.01765169714132413,
+      "perplexity": 613.3374633789062,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 27,
+      "position": 7,
+      "delta": 0.01695061707710528,
+      "perplexity": 826.2626953125,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 27,
+      "position": 8,
+      "delta": 0.01922416372163968,
+      "perplexity": 3.1833677291870117,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 28,
+      "position": 0,
+      "delta": 0.257753716493714,
+      "perplexity": 77479.5,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 28,
+      "position": 1,
+      "delta": 0.014904386960441822,
+      "perplexity": 139437.171875,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 28,
+      "position": 2,
+      "delta": 0.01784140201210327,
+      "perplexity": 34515.2265625,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 28,
+      "position": 3,
+      "delta": 0.027132113042776553,
+      "perplexity": 1.6596683263778687,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 28,
+      "position": 4,
+      "delta": 0.017216609620763677,
+      "perplexity": 433.0987548828125,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 28,
+      "position": 5,
+      "delta": 0.01671127500493202,
+      "perplexity": 36629.58984375,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 28,
+      "position": 6,
+      "delta": 0.01766863550754126,
+      "perplexity": 211.26296997070312,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 28,
+      "position": 7,
+      "delta": 0.011992401589331562,
+      "perplexity": 3.631704330444336,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 0,
+      "delta": 0.17945013056673392,
+      "perplexity": 249497.96875,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 1,
+      "delta": 0.02212706263845522,
+      "perplexity": 8787.8994140625,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 2,
+      "delta": 0.015375992040676448,
+      "perplexity": 18.251495361328125,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 3,
+      "delta": 0.019042603113375387,
+      "perplexity": 1.1077158451080322,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 4,
+      "delta": 0.014758533551256317,
+      "perplexity": 855991.8125,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 5,
+      "delta": 0.02152859584736424,
+      "perplexity": 12430.5654296875,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 6,
+      "delta": 0.015490992886684417,
+      "perplexity": 14.135384559631348,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 7,
+      "delta": 0.016265766743741687,
+      "perplexity": 19.759191513061523,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 8,
+      "delta": 0.017941900732641233,
+      "perplexity": 49941.4375,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 29,
+      "position": 9,
+      "delta": 0.015009632086068342,
+      "perplexity": 25.332860946655273,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 0,
+      "delta": 0.38342682448072374,
+      "perplexity": 23792.26953125,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 1,
+      "delta": 0.019838152452443143,
+      "perplexity": 36857.078125,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 2,
+      "delta": 0.018790867455446128,
+      "perplexity": 8.1657133102417,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 3,
+      "delta": 0.01917142624956091,
+      "perplexity": 48.2321662902832,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 4,
+      "delta": 0.017475745105263073,
+      "perplexity": 6.377324104309082,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 5,
+      "delta": 0.018352152574172175,
+      "perplexity": 3991.47412109375,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 6,
+      "delta": 0.021551853170419456,
+      "perplexity": 1.0765559673309326,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 7,
+      "delta": 0.015415325992107775,
+      "perplexity": 1617.041259765625,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 8,
+      "delta": 0.013600593495125525,
+      "perplexity": 644.5556640625,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 30,
+      "position": 9,
+      "delta": 0.016026911158494084,
+      "perplexity": 5.8464531898498535,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 0,
+      "delta": 0.30084763223209376,
+      "perplexity": 39285.22265625,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 1,
+      "delta": 0.02740431595038277,
+      "perplexity": 65.34882354736328,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 2,
+      "delta": 0.01693597176100754,
+      "perplexity": 4.065038681030273,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 3,
+      "delta": 0.01475771059821034,
+      "perplexity": 1.034300684928894,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 4,
+      "delta": 0.0230203725063461,
+      "perplexity": 16637.646484375,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 5,
+      "delta": 0.018232829240482397,
+      "perplexity": 69881.1015625,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 6,
+      "delta": 0.0170048703455623,
+      "perplexity": 6.411874294281006,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 7,
+      "delta": 0.022457113298253478,
+      "perplexity": 3.0585711002349854,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 8,
+      "delta": 0.01477713534620795,
+      "perplexity": 225.7230224609375,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 31,
+      "position": 9,
+      "delta": 0.015745221759622955,
+      "perplexity": 11.199236869812012,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 0,
+      "delta": 0.37717643281062696,
+      "perplexity": 1462.12451171875,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 1,
+      "delta": 0.017999402058973102,
+      "perplexity": 11.641563415527344,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 2,
+      "delta": 0.016161717202136782,
+      "perplexity": 41.7321662902832,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 3,
+      "delta": 0.019346738552395815,
+      "perplexity": 2.1039986610412598,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 4,
+      "delta": 0.019980946582260455,
+      "perplexity": 939656.9375,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 5,
+      "delta": 0.01790257536125304,
+      "perplexity": 14026.4931640625,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 6,
+      "delta": 0.025260905638456857,
+      "perplexity": 200.08090209960938,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 7,
+      "delta": 0.017560424142024383,
+      "perplexity": 1301.8768310546875,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 8,
+      "delta": 0.022495575714466687,
+      "perplexity": 26.69158172607422,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 32,
+      "position": 9,
+      "delta": 0.015332291582258921,
+      "perplexity": 3.366764783859253,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 33,
+      "position": 0,
+      "delta": 0.3255934929865164,
+      "perplexity": 67468.5703125,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 7,
+      "sentence_id": 33,
+      "position": 1,
+      "delta": 0.01661193625703439,
+      "perplexity": 3643723.75,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 7,
+      "sentence_id": 33,
+      "position": 2,
+      "delta": 0.014322411973823038,
+      "perplexity": 7265.36572265625,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 7,
+      "sentence_id": 33,
+      "position": 3,
+      "delta": 0.01938500763679513,
+      "perplexity": 426151.5,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 7,
+      "sentence_id": 33,
+      "position": 4,
+      "delta": 0.015950125813933458,
+      "perplexity": 1758.129638671875,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 7,
+      "sentence_id": 33,
+      "position": 5,
+      "delta": 0.019986941670278594,
+      "perplexity": 1.1558606624603271,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 7,
+      "sentence_id": 33,
+      "position": 6,
+      "delta": 0.012431085827383528,
+      "perplexity": 516.7363891601562,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 7,
+      "sentence_id": 33,
+      "position": 7,
+      "delta": 0.014711261790478408,
+      "perplexity": 2.2025468349456787,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 7,
+      "sentence_id": 34,
+      "position": 0,
+      "delta": 0.2353099509394192,
+      "perplexity": 1377.9354248046875,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 34,
+      "position": 1,
+      "delta": 0.026962810004573696,
+      "perplexity": 1071.181640625,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 34,
+      "position": 2,
+      "delta": 0.01677859727268468,
+      "perplexity": 798.65380859375,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 34,
+      "position": 3,
+      "delta": 0.01983432280890075,
+      "perplexity": 15260.779296875,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 34,
+      "position": 4,
+      "delta": 0.01764349625129795,
+      "perplexity": 28.922103881835938,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 34,
+      "position": 5,
+      "delta": 0.02192838024171744,
+      "perplexity": 6.549563884735107,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 34,
+      "position": 6,
+      "delta": 0.019266720397089643,
+      "perplexity": 5.0186285972595215,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 34,
+      "position": 7,
+      "delta": 0.01703797678094454,
+      "perplexity": 113976.796875,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 34,
+      "position": 8,
+      "delta": 0.020526779020645522,
+      "perplexity": 3.665146827697754,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 7,
+      "sentence_id": 35,
+      "position": 0,
+      "delta": 0.3377486746665893,
+      "perplexity": 54297.5859375,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 35,
+      "position": 1,
+      "delta": 0.015761561304283862,
+      "perplexity": 197255.109375,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 35,
+      "position": 2,
+      "delta": 0.014708373366981106,
+      "perplexity": 4405787.0,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 35,
+      "position": 3,
+      "delta": 0.016311269355709465,
+      "perplexity": 345.7712707519531,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 35,
+      "position": 4,
+      "delta": 0.01449740216050212,
+      "perplexity": 68.28251647949219,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 7,
+      "sentence_id": 35,
+      "position": 5,
+      "delta": 0.01853586361141694,
+      "perplexity": 12.996147155761719,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 0,
+      "position": 0,
+      "delta": 0.1781415758520895,
+      "perplexity": 8687.5556640625,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 0,
+      "position": 1,
+      "delta": 0.024088748685305562,
+      "perplexity": 6.08969259262085,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 0,
+      "position": 2,
+      "delta": 0.01608855344489291,
+      "perplexity": 152.9142303466797,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 0,
+      "position": 3,
+      "delta": 0.015715765834488228,
+      "perplexity": 8.220215797424316,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 0,
+      "position": 4,
+      "delta": 0.010971280930303038,
+      "perplexity": 31.012632369995117,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 0,
+      "position": 5,
+      "delta": 0.01303040062665587,
+      "perplexity": 3.8286120891571045,
+      "text": "The capital of France is Paris."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 1,
+      "position": 0,
+      "delta": 0.2586454220926533,
+      "perplexity": 358456.71875,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 1,
+      "position": 1,
+      "delta": 0.01880779535525178,
+      "perplexity": 20.88544464111328,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 1,
+      "position": 2,
+      "delta": 0.018415395899247677,
+      "perplexity": 40.710567474365234,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 1,
+      "position": 3,
+      "delta": 0.012670865025892332,
+      "perplexity": 3.656996488571167,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 1,
+      "position": 4,
+      "delta": 0.03180818480191616,
+      "perplexity": 13.428101539611816,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 1,
+      "position": 5,
+      "delta": 0.015452498108129075,
+      "perplexity": 4.440216064453125,
+      "text": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 2,
+      "position": 0,
+      "delta": 0.3967082436960401,
+      "perplexity": 6138.98095703125,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 2,
+      "position": 1,
+      "delta": 0.015040389055673394,
+      "perplexity": 629.1617431640625,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 2,
+      "position": 2,
+      "delta": 0.01708610252569306,
+      "perplexity": 18.88587188720703,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 2,
+      "position": 3,
+      "delta": 0.017581239977754418,
+      "perplexity": 1.897983431816101,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 2,
+      "position": 4,
+      "delta": 0.014590867102840552,
+      "perplexity": 2.117906332015991,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 2,
+      "position": 5,
+      "delta": 0.014789278620147008,
+      "perplexity": 9.63014030456543,
+      "text": "The Earth orbits around the Sun."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 3,
+      "position": 0,
+      "delta": 0.17697734593244388,
+      "perplexity": 38429.09375,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 3,
+      "position": 1,
+      "delta": 0.024756276716496915,
+      "perplexity": 39.423465728759766,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 3,
+      "position": 2,
+      "delta": 0.015755040102282833,
+      "perplexity": 10598.642578125,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 3,
+      "position": 3,
+      "delta": 0.017954093389365062,
+      "perplexity": 1.0109977722167969,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 3,
+      "position": 4,
+      "delta": 0.013282220226437321,
+      "perplexity": 16.518115997314453,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 3,
+      "position": 5,
+      "delta": 0.01772124186622362,
+      "perplexity": 171.98159790039062,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 3,
+      "position": 6,
+      "delta": 0.017559541735549026,
+      "perplexity": 1.041352391242981,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 3,
+      "position": 7,
+      "delta": 0.017809800430738387,
+      "perplexity": 1.0000964403152466,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 3,
+      "position": 8,
+      "delta": 0.009518696611846865,
+      "perplexity": 6.956355094909668,
+      "text": "William Shakespeare wrote Hamlet and Macbeth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 4,
+      "position": 0,
+      "delta": 0.47658942935405246,
+      "perplexity": 1017.1853637695312,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 4,
+      "position": 1,
+      "delta": 0.015635170025174106,
+      "perplexity": 12.697994232177734,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 4,
+      "position": 2,
+      "delta": 0.0159598484352037,
+      "perplexity": 171.09835815429688,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 4,
+      "position": 3,
+      "delta": 0.015491105879695521,
+      "perplexity": 37.788551330566406,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 4,
+      "position": 4,
+      "delta": 0.015307486029308832,
+      "perplexity": 2.3518471717834473,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 4,
+      "position": 5,
+      "delta": 0.023662164329648475,
+      "perplexity": 36.98419952392578,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 4,
+      "position": 6,
+      "delta": 0.016068720801161968,
+      "perplexity": 8.84091567993164,
+      "text": "The United Nations was founded in 1945."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 5,
+      "position": 0,
+      "delta": 0.3246643387565133,
+      "perplexity": 516518.90625,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 5,
+      "position": 1,
+      "delta": 0.015030369665118034,
+      "perplexity": 4530.68603515625,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 5,
+      "position": 2,
+      "delta": 0.01371806236166007,
+      "perplexity": 70.015380859375,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 5,
+      "position": 3,
+      "delta": 0.015152919603048124,
+      "perplexity": 3.065639019012451,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 5,
+      "position": 4,
+      "delta": 0.01211976508785473,
+      "perplexity": 2.995314121246338,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 5,
+      "position": 5,
+      "delta": 0.016940867335079084,
+      "perplexity": 4.98203182220459,
+      "text": "Photosynthesis converts sunlight into energy."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 6,
+      "position": 0,
+      "delta": 0.28214758431451964,
+      "perplexity": 3102.160400390625,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 6,
+      "position": 1,
+      "delta": 0.018020884565560287,
+      "perplexity": 44.8156623840332,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 6,
+      "position": 2,
+      "delta": 0.04323854293773377,
+      "perplexity": 2.219194173812866,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 6,
+      "position": 3,
+      "delta": 0.015446038480648194,
+      "perplexity": 1.0778692960739136,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 6,
+      "position": 4,
+      "delta": 0.013332014762557147,
+      "perplexity": 13.903039932250977,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 6,
+      "position": 5,
+      "delta": 0.014473840379216453,
+      "perplexity": 221.24591064453125,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 6,
+      "position": 6,
+      "delta": 0.011708699073592019,
+      "perplexity": 3.2603204250335693,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 6,
+      "position": 7,
+      "delta": 0.015425244885734178,
+      "perplexity": 463.76373291015625,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 6,
+      "position": 8,
+      "delta": 0.01026444460597419,
+      "perplexity": 3.307602882385254,
+      "text": "The Great Wall of China is visible from space."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 7,
+      "position": 0,
+      "delta": 0.18069420982700765,
+      "perplexity": 591.8527221679688,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 7,
+      "position": 1,
+      "delta": 0.017123150555506905,
+      "perplexity": 60.518531799316406,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 7,
+      "position": 2,
+      "delta": 0.017117909970084378,
+      "perplexity": 17415.314453125,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 7,
+      "position": 3,
+      "delta": 0.01916438685699489,
+      "perplexity": 5.312133312225342,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 7,
+      "position": 4,
+      "delta": 0.016930974480253942,
+      "perplexity": 472.0952453613281,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 7,
+      "position": 5,
+      "delta": 0.01635148310546096,
+      "perplexity": 1.1056783199310303,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 7,
+      "position": 6,
+      "delta": 0.014200125550611791,
+      "perplexity": 15.69500732421875,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 7,
+      "position": 7,
+      "delta": 0.011945198651266309,
+      "perplexity": 6.622836112976074,
+      "text": "Isaac Newton discovered the laws of gravity."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 8,
+      "position": 0,
+      "delta": 0.19231690618371922,
+      "perplexity": 20881.10546875,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 8,
+      "position": 1,
+      "delta": 0.01705285012468419,
+      "perplexity": 24.934581756591797,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 8,
+      "position": 2,
+      "delta": 0.015196862076798061,
+      "perplexity": 7.075277328491211,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 8,
+      "position": 3,
+      "delta": 0.01438904900083105,
+      "perplexity": 13.55055046081543,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 8,
+      "position": 4,
+      "delta": 0.013329412205048274,
+      "perplexity": 11.050253868103027,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 8,
+      "position": 5,
+      "delta": 0.01624521328855807,
+      "perplexity": 5.540547847747803,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 8,
+      "position": 6,
+      "delta": 0.01577006444776429,
+      "perplexity": 12.298667907714844,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 8,
+      "position": 7,
+      "delta": 0.016184820393097477,
+      "perplexity": 1.414231538772583,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 8,
+      "position": 8,
+      "delta": 0.013870570477783029,
+      "perplexity": 4.523439884185791,
+      "text": "The Pacific Ocean is the largest ocean on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 9,
+      "position": 0,
+      "delta": 0.15974276020101635,
+      "perplexity": 4104.810546875,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 9,
+      "position": 1,
+      "delta": 0.01802537494070926,
+      "perplexity": 1.0632489919662476,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 9,
+      "position": 2,
+      "delta": 0.01453317153119783,
+      "perplexity": 1016.5245361328125,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 9,
+      "position": 3,
+      "delta": 0.01702740351532024,
+      "perplexity": 4.2462477684021,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 9,
+      "position": 4,
+      "delta": 0.01510035310952138,
+      "perplexity": 119.06707000732422,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 9,
+      "position": 5,
+      "delta": 0.015597788828485235,
+      "perplexity": 1.0977139472961426,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 9,
+      "position": 6,
+      "delta": 0.012562243810217583,
+      "perplexity": 14.587177276611328,
+      "text": "Beethoven composed the Ninth Symphony."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 10,
+      "position": 0,
+      "delta": 0.35690999524354033,
+      "perplexity": 57841.60546875,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 10,
+      "position": 1,
+      "delta": 0.02136901125127168,
+      "perplexity": 4.627824783325195,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 10,
+      "position": 2,
+      "delta": 0.013690735592006722,
+      "perplexity": 20.436384201049805,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 10,
+      "position": 3,
+      "delta": 0.013215529024029718,
+      "perplexity": 24.816085815429688,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 10,
+      "position": 4,
+      "delta": 0.011105579266580791,
+      "perplexity": 3.292767286300659,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 10,
+      "position": 5,
+      "delta": 0.01292895700052988,
+      "perplexity": 422.6575012207031,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 10,
+      "position": 6,
+      "delta": 0.014717811323868122,
+      "perplexity": 16.627870559692383,
+      "text": "The printing press was invented by Gutenberg."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 11,
+      "position": 0,
+      "delta": 0.3828204718604601,
+      "perplexity": 120.49966430664062,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 11,
+      "position": 1,
+      "delta": 0.013802646437009684,
+      "perplexity": 33.505088806152344,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 11,
+      "position": 2,
+      "delta": 0.014377043065437984,
+      "perplexity": 1031.196044921875,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 11,
+      "position": 3,
+      "delta": 0.013153804558807386,
+      "perplexity": 342.188720703125,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 11,
+      "position": 4,
+      "delta": 0.011560665768665754,
+      "perplexity": 196.04806518554688,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 11,
+      "position": 5,
+      "delta": 0.008989536195923542,
+      "perplexity": 8.271039962768555,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 11,
+      "position": 6,
+      "delta": 0.011745952902868286,
+      "perplexity": 6.654029846191406,
+      "text": "Diamonds are formed under extreme pressure."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 0,
+      "delta": 0.27025643274859784,
+      "perplexity": 19202.1171875,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 1,
+      "delta": 0.029461678692639662,
+      "perplexity": 372.3038024902344,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 2,
+      "delta": 0.014788508389426882,
+      "perplexity": 1.1940975189208984,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 3,
+      "delta": 0.018041839786398076,
+      "perplexity": 827.5626831054688,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 4,
+      "delta": 0.012424379303641321,
+      "perplexity": 353.381591796875,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 5,
+      "delta": 0.008458785343672483,
+      "perplexity": 4.5343017578125,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 6,
+      "delta": 0.011948784804032369,
+      "perplexity": 1.2746931314468384,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 7,
+      "delta": 0.010489333113942526,
+      "perplexity": 278.17559814453125,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 8,
+      "delta": 0.015020442437512885,
+      "perplexity": 1.0037808418273926,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 9,
+      "delta": 0.011338696896244078,
+      "perplexity": 130.51866149902344,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 12,
+      "position": 10,
+      "delta": 0.012457681851191001,
+      "perplexity": 4.80399227142334,
+      "text": "The Amazon rainforest produces 20% of Earth's oxyg"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 0,
+      "delta": 0.5255168070339175,
+      "perplexity": 11994.0751953125,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 1,
+      "delta": 0.023523005103287954,
+      "perplexity": 182.89442443847656,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 2,
+      "delta": 0.017033892430806642,
+      "perplexity": 30.68504524230957,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 3,
+      "delta": 0.015483774948508198,
+      "perplexity": 1.0004721879959106,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 4,
+      "delta": 0.015347146014637108,
+      "perplexity": 5745.62890625,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 5,
+      "delta": 0.013867430519674583,
+      "perplexity": 5.327917098999023,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 6,
+      "delta": 0.014383487382874706,
+      "perplexity": 2471.03125,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 7,
+      "delta": 0.018840390513461185,
+      "perplexity": 2.5862462520599365,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 8,
+      "delta": 0.017423552509481403,
+      "perplexity": 1.0093618631362915,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 13,
+      "position": 9,
+      "delta": 0.016467149379145254,
+      "perplexity": 12.41407299041748,
+      "text": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 0,
+      "delta": 0.41770939412576413,
+      "perplexity": 5200.37548828125,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 1,
+      "delta": 0.014202321182086386,
+      "perplexity": 2.8456761837005615,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 2,
+      "delta": 0.01539773041021935,
+      "perplexity": 11.634221076965332,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 3,
+      "delta": 0.01044355453375869,
+      "perplexity": 4.726280689239502,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 4,
+      "delta": 0.013931544635075323,
+      "perplexity": 657.7079467773438,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 5,
+      "delta": 0.014833523035609057,
+      "perplexity": 121.19634246826172,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 6,
+      "delta": 0.010480312131077588,
+      "perplexity": 19.86389923095703,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 7,
+      "delta": 0.015971041254772035,
+      "perplexity": 1.014304280281067,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 8,
+      "delta": 0.011300618688035948,
+      "perplexity": 11.327028274536133,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 9,
+      "delta": 0.013756407373390718,
+      "perplexity": 1.3081018924713135,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 10,
+      "delta": 0.01411339857974512,
+      "perplexity": 19.719465255737305,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 14,
+      "position": 11,
+      "delta": 0.013643152627121827,
+      "perplexity": 3.206973075866699,
+      "text": "The speed of light is approximately 300,000 km/s."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 15,
+      "position": 0,
+      "delta": 0.3110462451211719,
+      "perplexity": 138294.015625,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 15,
+      "position": 1,
+      "delta": 0.020558560182872845,
+      "perplexity": 16.409095764160156,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 15,
+      "position": 2,
+      "delta": 0.016348602418404842,
+      "perplexity": 12.97304916381836,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 15,
+      "position": 3,
+      "delta": 0.012191104973045845,
+      "perplexity": 11.360559463500977,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 15,
+      "position": 4,
+      "delta": 0.018019346216052487,
+      "perplexity": 5.25233268737793,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 15,
+      "position": 5,
+      "delta": 0.015025059696471815,
+      "perplexity": 5.949069499969482,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 15,
+      "position": 6,
+      "delta": 0.014923257451002855,
+      "perplexity": 3.1895992755889893,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 15,
+      "position": 7,
+      "delta": 0.010653224543603134,
+      "perplexity": 3.692255735397339,
+      "text": "Mount Everest is the highest mountain on Earth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 16,
+      "position": 0,
+      "delta": 0.3110895835294485,
+      "perplexity": 1980.415771484375,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 16,
+      "position": 1,
+      "delta": 0.02602084263381702,
+      "perplexity": 4.974903106689453,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 16,
+      "position": 2,
+      "delta": 0.01240148848099082,
+      "perplexity": 12.429203987121582,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 16,
+      "position": 3,
+      "delta": 0.011659015962667094,
+      "perplexity": 60514.4375,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 16,
+      "position": 4,
+      "delta": 0.013018640610657219,
+      "perplexity": 196.9145050048828,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 16,
+      "position": 5,
+      "delta": 0.010225996139797116,
+      "perplexity": 7.91326379776001,
+      "text": "The human body has 206 bones."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 17,
+      "position": 0,
+      "delta": 0.33856902385091725,
+      "perplexity": 186645.203125,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 17,
+      "position": 1,
+      "delta": 0.017520660213782128,
+      "perplexity": 51.98143768310547,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 17,
+      "position": 2,
+      "delta": 0.0165948871710001,
+      "perplexity": 2.1765265464782715,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 17,
+      "position": 3,
+      "delta": 0.013775940717997572,
+      "perplexity": 1.0030075311660767,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 17,
+      "position": 4,
+      "delta": 0.011305003686532441,
+      "perplexity": 25792.224609375,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 17,
+      "position": 5,
+      "delta": 0.01627035833704336,
+      "perplexity": 2425.87890625,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 17,
+      "position": 6,
+      "delta": 0.012316974337846537,
+      "perplexity": 89.1556396484375,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 17,
+      "position": 7,
+      "delta": 0.01673465244741377,
+      "perplexity": 1.4506741762161255,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 17,
+      "position": 8,
+      "delta": 0.010179088812675605,
+      "perplexity": 13.622598648071289,
+      "text": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 18,
+      "position": 0,
+      "delta": 0.1752186369096281,
+      "perplexity": 53091.40234375,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 18,
+      "position": 1,
+      "delta": 0.014809989733235444,
+      "perplexity": 2.0593695640563965,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 18,
+      "position": 2,
+      "delta": 0.01529016657210454,
+      "perplexity": 59.221717834472656,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 18,
+      "position": 3,
+      "delta": 0.01013119929898071,
+      "perplexity": 2.9047908782958984,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 18,
+      "position": 4,
+      "delta": 0.014538878756200364,
+      "perplexity": 47.141387939453125,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 18,
+      "position": 5,
+      "delta": 0.012627663318369921,
+      "perplexity": 17.266660690307617,
+      "text": "The Industrial Revolution began in Britain."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 19,
+      "position": 0,
+      "delta": 0.34843407906613116,
+      "perplexity": 26710.880859375,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 19,
+      "position": 1,
+      "delta": 0.011981260306469604,
+      "perplexity": 319.84808349609375,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 19,
+      "position": 2,
+      "delta": 0.013609694160579479,
+      "perplexity": 3.825113534927368,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 19,
+      "position": 3,
+      "delta": 0.011415565933026886,
+      "perplexity": 43.168846130371094,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 19,
+      "position": 4,
+      "delta": 0.012007076859575248,
+      "perplexity": 41.311153411865234,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 19,
+      "position": 5,
+      "delta": 0.009373858585209515,
+      "perplexity": 27.546449661254883,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 19,
+      "position": 6,
+      "delta": 0.01208389446646854,
+      "perplexity": 4.545222759246826,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 19,
+      "position": 7,
+      "delta": 0.013924792532242988,
+      "perplexity": 3.1135308742523193,
+      "text": "DNA carries genetic information in all living orga"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 20,
+      "position": 0,
+      "delta": 0.3300214560609765,
+      "perplexity": 177476.1875,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 20,
+      "position": 1,
+      "delta": 0.014093205134036939,
+      "perplexity": 26.865392684936523,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 20,
+      "position": 2,
+      "delta": 0.0139292495636865,
+      "perplexity": 5.520791053771973,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 20,
+      "position": 3,
+      "delta": 0.013545880333007356,
+      "perplexity": 17.30518341064453,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 20,
+      "position": 4,
+      "delta": 0.011827584302542453,
+      "perplexity": 1.9160711765289307,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 20,
+      "position": 5,
+      "delta": 0.011866339567735605,
+      "perplexity": 102.17890167236328,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 20,
+      "position": 6,
+      "delta": 0.01180887483927031,
+      "perplexity": 536.8475341796875,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 20,
+      "position": 7,
+      "delta": 0.011031375712350201,
+      "perplexity": 8.88724422454834,
+      "text": "The Renaissance was a period of cultural rebirth."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 21,
+      "position": 0,
+      "delta": 0.12220736760647477,
+      "perplexity": 15031.0908203125,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 21,
+      "position": 1,
+      "delta": 0.015471413502239307,
+      "perplexity": 2.0068094730377197,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 21,
+      "position": 2,
+      "delta": 0.013374420204183703,
+      "perplexity": 23.7697696685791,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 21,
+      "position": 3,
+      "delta": 0.012078255515935658,
+      "perplexity": 174.59231567382812,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 21,
+      "position": 4,
+      "delta": 0.01362828438200251,
+      "perplexity": 1.724433183670044,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 21,
+      "position": 5,
+      "delta": 0.014119850393630834,
+      "perplexity": 78.92167663574219,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 21,
+      "position": 6,
+      "delta": 0.015866271319112422,
+      "perplexity": 2853.9765625,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 21,
+      "position": 7,
+      "delta": 0.017541952915947907,
+      "perplexity": 1.0002228021621704,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 21,
+      "position": 8,
+      "delta": 0.01310358684602297,
+      "perplexity": 3.9242732524871826,
+      "text": "Oxygen is essential for human respiration."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 22,
+      "position": 0,
+      "delta": 0.2020650187672608,
+      "perplexity": 12973.783203125,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 22,
+      "position": 1,
+      "delta": 0.013775840890924712,
+      "perplexity": 4.731987953186035,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 22,
+      "position": 2,
+      "delta": 0.013820336964386412,
+      "perplexity": 223.26524353027344,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 22,
+      "position": 3,
+      "delta": 0.016383524432943296,
+      "perplexity": 11.358663558959961,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 22,
+      "position": 4,
+      "delta": 0.016538223725621092,
+      "perplexity": 131.91217041015625,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 22,
+      "position": 5,
+      "delta": 0.03059973756227402,
+      "perplexity": 13.331336975097656,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 22,
+      "position": 6,
+      "delta": 0.011062845781596288,
+      "perplexity": 9.720792770385742,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 22,
+      "position": 7,
+      "delta": 0.013758959389770016,
+      "perplexity": 4.346835136413574,
+      "text": "The Roman Empire fell in 476 AD."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 0,
+      "delta": 0.30454321713627863,
+      "perplexity": 19831.998046875,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 1,
+      "delta": 0.02031962162733791,
+      "perplexity": 13.70006275177002,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 2,
+      "delta": 0.018999097335020733,
+      "perplexity": 5795.908203125,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 3,
+      "delta": 0.011596881952040583,
+      "perplexity": 79202.203125,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 4,
+      "delta": 0.016519838849686233,
+      "perplexity": 5.787438869476318,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 5,
+      "delta": 0.013821692412410118,
+      "perplexity": 20.203031539916992,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 6,
+      "delta": 0.022187484086754992,
+      "perplexity": 1472.7315673828125,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 7,
+      "delta": 0.020797194138779947,
+      "perplexity": 1.0350942611694336,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 8,
+      "delta": 0.015085338069168074,
+      "perplexity": 1.0007655620574951,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 23,
+      "position": 9,
+      "delta": 0.012355065645599673,
+      "perplexity": 13.582650184631348,
+      "text": "Marie Curie discovered radium and polonium."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 24,
+      "position": 0,
+      "delta": 0.2461003685158537,
+      "perplexity": 208.98365783691406,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 24,
+      "position": 1,
+      "delta": 0.010426080167696259,
+      "perplexity": 7741.95556640625,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 24,
+      "position": 2,
+      "delta": 0.01600624678890642,
+      "perplexity": 16.388578414916992,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 24,
+      "position": 3,
+      "delta": 0.015182312813841161,
+      "perplexity": 46.71333312988281,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 24,
+      "position": 4,
+      "delta": 0.016018904733388097,
+      "perplexity": 3.5764636993408203,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 24,
+      "position": 5,
+      "delta": 0.015534795481522657,
+      "perplexity": 17.6583309173584,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 24,
+      "position": 6,
+      "delta": 0.015908329918204366,
+      "perplexity": 3.1327102184295654,
+      "text": "The first moon landing occurred in 1969."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 25,
+      "position": 0,
+      "delta": 0.23720966392400733,
+      "perplexity": 34592.3359375,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 25,
+      "position": 1,
+      "delta": 0.02592675321776806,
+      "perplexity": 3071.878662109375,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 25,
+      "position": 2,
+      "delta": 0.01918139329027877,
+      "perplexity": 22818.6328125,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 25,
+      "position": 3,
+      "delta": 0.015346240912724695,
+      "perplexity": 13.69105052947998,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 25,
+      "position": 4,
+      "delta": 0.013846970261056054,
+      "perplexity": 12.023265838623047,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 25,
+      "position": 5,
+      "delta": 0.009915802407656951,
+      "perplexity": 1237.373291015625,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 25,
+      "position": 6,
+      "delta": 0.015416278751506569,
+      "perplexity": 385.8323059082031,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 25,
+      "position": 7,
+      "delta": 0.017983705287641125,
+      "perplexity": 5.461567401885986,
+      "text": "The purple elephant danced on a rainbow cloud."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 0,
+      "delta": 0.35374905449947763,
+      "perplexity": 163.64503479003906,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 1,
+      "delta": 0.011607398382477202,
+      "perplexity": 174.39736938476562,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 2,
+      "delta": 0.012239437301490868,
+      "perplexity": 11853.3896484375,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 3,
+      "delta": 0.019019321415886123,
+      "perplexity": 8.941704750061035,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 4,
+      "delta": 0.012065210604516437,
+      "perplexity": 8449.080078125,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 5,
+      "delta": 0.01535707475233822,
+      "perplexity": 3.279498338699341,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 6,
+      "delta": 0.013724262690778869,
+      "perplexity": 12.2390718460083,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 7,
+      "delta": 0.013161832203332455,
+      "perplexity": 52071.2734375,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 8,
+      "delta": 0.015288317517783315,
+      "perplexity": 97.02284240722656,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 9,
+      "delta": 0.020860356223187385,
+      "perplexity": 1.0002353191375732,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 10,
+      "delta": 0.01724531742737756,
+      "perplexity": 1.0050569772720337,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 26,
+      "position": 11,
+      "delta": 0.012083249427240619,
+      "perplexity": 4.309349536895752,
+      "text": "My toaster wrote a symphony for kitchen utensils."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 27,
+      "position": 0,
+      "delta": 0.27150882303809276,
+      "perplexity": 51066.07421875,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 27,
+      "position": 1,
+      "delta": 0.018940297257249585,
+      "perplexity": 252095.65625,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 27,
+      "position": 2,
+      "delta": 0.017385095749816275,
+      "perplexity": 1.1421750783920288,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 27,
+      "position": 3,
+      "delta": 0.015203476531131207,
+      "perplexity": 9632.7314453125,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 27,
+      "position": 4,
+      "delta": 0.02419485645138975,
+      "perplexity": 14.321245193481445,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 27,
+      "position": 5,
+      "delta": 0.01379934651029597,
+      "perplexity": 44.853309631347656,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 27,
+      "position": 6,
+      "delta": 0.01424124903921853,
+      "perplexity": 613.3374633789062,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 27,
+      "position": 7,
+      "delta": 0.014878083476935516,
+      "perplexity": 826.2626953125,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 27,
+      "position": 8,
+      "delta": 0.014414118850606648,
+      "perplexity": 3.1833677291870117,
+      "text": "The invisible giraffe painted the sky purple yeste"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 28,
+      "position": 0,
+      "delta": 0.16690516492591576,
+      "perplexity": 77479.5,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 28,
+      "position": 1,
+      "delta": 0.02353391535512055,
+      "perplexity": 139437.171875,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 28,
+      "position": 2,
+      "delta": 0.04226690961866868,
+      "perplexity": 34515.2265625,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 28,
+      "position": 3,
+      "delta": 0.015336865005692802,
+      "perplexity": 1.6596683263778687,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 28,
+      "position": 4,
+      "delta": 0.011174280140380273,
+      "perplexity": 433.0987548828125,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 28,
+      "position": 5,
+      "delta": 0.014949369757553852,
+      "perplexity": 36629.58984375,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 28,
+      "position": 6,
+      "delta": 0.011612488421824543,
+      "perplexity": 211.26296997070312,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 28,
+      "position": 7,
+      "delta": 0.014286436336354279,
+      "perplexity": 3.631704330444336,
+      "text": "A quantum potato decided to learn ballet dancing."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 0,
+      "delta": 0.22250978881598368,
+      "perplexity": 249497.96875,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 1,
+      "delta": 0.019386742647079337,
+      "perplexity": 8787.8994140625,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 2,
+      "delta": 0.01413928799132301,
+      "perplexity": 18.251495361328125,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 3,
+      "delta": 0.018342589447501792,
+      "perplexity": 1.1077158451080322,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 4,
+      "delta": 0.013221147543064426,
+      "perplexity": 855991.8125,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 5,
+      "delta": 0.01240092095258419,
+      "perplexity": 12430.5654296875,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 6,
+      "delta": 0.01224859559596039,
+      "perplexity": 14.135384559631348,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 7,
+      "delta": 0.017584816804370802,
+      "perplexity": 19.759191513061523,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 8,
+      "delta": 0.013603132265982181,
+      "perplexity": 49941.4375,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 29,
+      "position": 9,
+      "delta": 0.0158293241720274,
+      "perplexity": 25.332860946655273,
+      "text": "The sentient lampshade debated philosophy with a s"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 0,
+      "delta": 0.45202287275500724,
+      "perplexity": 23792.26953125,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 1,
+      "delta": 0.015240443957961597,
+      "perplexity": 36857.078125,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 2,
+      "delta": 0.014935693648983919,
+      "perplexity": 8.1657133102417,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 3,
+      "delta": 0.012652507418642487,
+      "perplexity": 48.2321662902832,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 4,
+      "delta": 0.016048591770231033,
+      "perplexity": 6.377324104309082,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 5,
+      "delta": 0.013451676801415798,
+      "perplexity": 3991.47412109375,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 6,
+      "delta": 0.014006444381284552,
+      "perplexity": 1.0765559673309326,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 7,
+      "delta": 0.018924020326661337,
+      "perplexity": 1617.041259765625,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 8,
+      "delta": 0.012820944196793825,
+      "perplexity": 644.5556640625,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 30,
+      "position": 9,
+      "delta": 0.01182466899281354,
+      "perplexity": 5.8464531898498535,
+      "text": "My shadow learned to play the accordion last Tuesd"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 0,
+      "delta": 0.3723935322564014,
+      "perplexity": 39285.22265625,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 1,
+      "delta": 0.04201309342583679,
+      "perplexity": 65.34882354736328,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 2,
+      "delta": 0.013824582492328723,
+      "perplexity": 4.065038681030273,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 3,
+      "delta": 0.014234401637331886,
+      "perplexity": 1.034300684928894,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 4,
+      "delta": 0.017524852909106086,
+      "perplexity": 16637.646484375,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 5,
+      "delta": 0.013958503400485925,
+      "perplexity": 69881.1015625,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 6,
+      "delta": 0.013402301898111662,
+      "perplexity": 6.411874294281006,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 7,
+      "delta": 0.012590247641322164,
+      "perplexity": 3.0585711002349854,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 8,
+      "delta": 0.01226820612941424,
+      "perplexity": 225.7230224609375,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 31,
+      "position": 9,
+      "delta": 0.01392830233386411,
+      "perplexity": 11.199236869812012,
+      "text": "The gravity-defying sandwich escaped from the frid"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 0,
+      "delta": 0.35513214116183583,
+      "perplexity": 1462.12451171875,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 1,
+      "delta": 0.01459649791616396,
+      "perplexity": 11.641563415527344,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 2,
+      "delta": 0.015890316423846744,
+      "perplexity": 41.7321662902832,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 3,
+      "delta": 0.01703346054540573,
+      "perplexity": 2.1039986610412598,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 4,
+      "delta": 0.010840443986268702,
+      "perplexity": 939656.9375,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 5,
+      "delta": 0.011921664035269681,
+      "perplexity": 14026.4931640625,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 6,
+      "delta": 0.014987941665214924,
+      "perplexity": 200.08090209960938,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 7,
+      "delta": 0.015190549668793097,
+      "perplexity": 1301.8768310546875,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 8,
+      "delta": 0.010624421570658663,
+      "perplexity": 26.69158172607422,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 32,
+      "position": 9,
+      "delta": 0.016784887510808127,
+      "perplexity": 3.366764783859253,
+      "text": "A time-traveling teaspoon invented the color blue."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 33,
+      "position": 0,
+      "delta": 0.41607250686853203,
+      "perplexity": 67468.5703125,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 10,
+      "sentence_id": 33,
+      "position": 1,
+      "delta": 0.015364716013263884,
+      "perplexity": 3643723.75,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 10,
+      "sentence_id": 33,
+      "position": 2,
+      "delta": 0.012158787125061691,
+      "perplexity": 7265.36572265625,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 10,
+      "sentence_id": 33,
+      "position": 3,
+      "delta": 0.012371983267562944,
+      "perplexity": 426151.5,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 10,
+      "sentence_id": 33,
+      "position": 4,
+      "delta": 0.015720227205426977,
+      "perplexity": 1758.129638671875,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 10,
+      "sentence_id": 33,
+      "position": 5,
+      "delta": 0.010792661621721667,
+      "perplexity": 1.1558606624603271,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 10,
+      "sentence_id": 33,
+      "position": 6,
+      "delta": 0.010748339071051853,
+      "perplexity": 516.7363891601562,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 10,
+      "sentence_id": 33,
+      "position": 7,
+      "delta": 0.011317028943307099,
+      "perplexity": 2.2025468349456787,
+      "text": "The singing mailbox delivered emotions instead of "
+    },
+    {
+      "layer": 10,
+      "sentence_id": 34,
+      "position": 0,
+      "delta": 0.2948435501269247,
+      "perplexity": 1377.9354248046875,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 34,
+      "position": 1,
+      "delta": 0.01891611333663708,
+      "perplexity": 1071.181640625,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 34,
+      "position": 2,
+      "delta": 0.023024780856930334,
+      "perplexity": 798.65380859375,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 34,
+      "position": 3,
+      "delta": 0.01397776965120383,
+      "perplexity": 15260.779296875,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 34,
+      "position": 4,
+      "delta": 0.013253138686740915,
+      "perplexity": 28.922103881835938,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 34,
+      "position": 5,
+      "delta": 0.020136939873024437,
+      "perplexity": 6.549563884735107,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 34,
+      "position": 6,
+      "delta": 0.020973641582041732,
+      "perplexity": 5.0186285972595215,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 34,
+      "position": 7,
+      "delta": 0.01464316232760233,
+      "perplexity": 113976.796875,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 34,
+      "position": 8,
+      "delta": 0.011858314264074002,
+      "perplexity": 3.665146827697754,
+      "text": "My left shoe became prime minister of the moon."
+    },
+    {
+      "layer": 10,
+      "sentence_id": 35,
+      "position": 0,
+      "delta": 0.2991881786108728,
+      "perplexity": 54297.5859375,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 35,
+      "position": 1,
+      "delta": 0.015630160950882755,
+      "perplexity": 197255.109375,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 35,
+      "position": 2,
+      "delta": 0.015745904140052853,
+      "perplexity": 4405787.0,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 35,
+      "position": 3,
+      "delta": 0.017261167521557194,
+      "perplexity": 345.7712707519531,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 35,
+      "position": 4,
+      "delta": 0.009945489670221195,
+      "perplexity": 68.28251647949219,
+      "text": "The philosophical brick contemplated its existence"
+    },
+    {
+      "layer": 10,
+      "sentence_id": 35,
+      "position": 5,
+      "delta": 0.012041889880382285,
+      "perplexity": 12.996147155761719,
+      "text": "The philosophical brick contemplated its existence"
+    }
+  ],
+  "summary": [
+    {
+      "layer": 4,
+      "n_tokens": 299,
+      "n_sentences": 36,
+      "rho_pooled": 0.3430257457745056,
+      "p_pooled": 1.1118314955919968e-09,
+      "rho_sentence": 0.025225225225225228,
+      "p_sentence": 0.883895364266509
+    },
+    {
+      "layer": 7,
+      "n_tokens": 299,
+      "n_sentences": 36,
+      "rho_pooled": 0.2564490134901573,
+      "p_pooled": 7.083127999016878e-06,
+      "rho_sentence": 0.07078507078507079,
+      "p_sentence": 0.6816321528355436
+    },
+    {
+      "layer": 10,
+      "n_tokens": 299,
+      "n_sentences": 36,
+      "rho_pooled": 0.21129626719938946,
+      "p_pooled": 0.00023324856562954497,
+      "rho_sentence": 0.09420849420849423,
+      "p_sentence": 0.5847083834433182
+    }
+  ],
+  "n_failed": 0
+}
